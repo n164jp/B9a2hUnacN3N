@@ -1,0 +1,30 @@
+ul {
+    list-style: none;
+    margin: 0;
+    position: relative;
+    margin-left: -2em;
+}
+
+table {
+    margin-bottom: 0;
+}
+
+th {
+    border-bottom: none;
+}
+
+th:nth-child(1),
+td:nth-child(1) {
+    border-right: 3px #e5e5d1 solid;
+}
+
+ul:nth-of-type(2) li:before {
+    content: '';
+    width: 12px;
+    height: 12px;
+    background: #6fc173;
+    position: absolute;
+    left: 6.5em;
+    margin-top: 0.7em;
+    border-radius: 100%;
+}
