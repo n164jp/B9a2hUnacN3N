@@ -24,6 +24,6 @@
 
 [プレゼンター](./presenter.html)
 
-[観光随行者](./attendant.html)
+[京都同行者](./attendant.html)
 
 [京都先生](./nfkyoto.html)
