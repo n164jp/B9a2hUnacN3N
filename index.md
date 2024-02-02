@@ -1,3 +1,7 @@
+<!--
+<meta http-equiv="content-language" content="ja">
+-->
+
 # DATEV-TKCミーティング  
 
 2024年3月度
