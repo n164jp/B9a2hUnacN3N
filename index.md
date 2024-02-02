@@ -2,7 +2,7 @@
 
 2024年3月度
 
-## 概要
+## 全体行程
 
 - 3/23(土)　来日、ディナー
 - 3/24(日)　東京観光、Welcome ディナー
@@ -12,18 +12,18 @@
 - 3/28(木)　京都から東京に戻り、Farewellディナー
 - 3/29(金)　帰国
 
-## 行程
+## 個別行程
 
 [事務局](./staff.html)
 
-[出迎社員](./welcomer.html)
+[出迎者](./welcomer.html)
 
 [名誉会長](./honor.html)
 
-[東京先生](./nftokyo.html)
+[会員先生](./nftokyo.html)
 
 [プレゼンター](./presenter.html)
 
 [京都同行者](./attendant.html)
 
-[京都先生](./nfkyoto.html)
+[京滋会先生](./nfkyoto.html)
