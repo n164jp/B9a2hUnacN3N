@@ -50,4 +50,6 @@
 > 3/28 (木)
 
 The Upper  
-https://the-upper.jp/
+https://the-upper.jp/  
+フェアウェル ディナー  
+ドレスコードなし

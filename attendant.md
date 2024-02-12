@@ -212,14 +212,39 @@ https://www.marriott.com/ja/hotels/osajw-jw-marriott-hotel-nara/overview/
 
 ### ランチ
 
+> 3/26 (火)
+
+AZZURRI アズーリ 神楽坂  
+https://tokyo-shokusai.co.jp/restaurants/#azzurri
+
 > 3/27 (水)
 
-京料理 ちもと  
-https://chimoto.jp/
-
-### ディナー
+南禅寺 順正  
+http://www.to-fu.co.jp/
 
 > 3/28 (木)
 
-The Upper  
-https://the-upper.jp/
+魚三楼  
+https://www.uosaburo.com/  
+京都伏見の老舗料亭
+
+### ディナー
+
+> 3/26 (火)
+
+ホテル 雅叙園 東京 和室宴会場 鷲  
+https://www.hotelgajoen-tokyo.com/party/room/washi  
+ドレスコードなし
+
+> 3/27 (水)
+
+京料理 ちもと  
+https://chimoto.jp/  
+ドレスコードなし
+
+> 3/28 (木)
+
+THE UPPER  
+https://the-upper.jp/  
+フェアウェル ディナー  
+ドレスコードなし

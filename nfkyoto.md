@@ -35,4 +35,5 @@
 > 3/27 (水)
 
 京料理 ちもと  
-https://chimoto.jp/
+https://chimoto.jp/  
+ドレスコードなし

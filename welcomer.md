@@ -275,17 +275,53 @@
 ホテルニューオータニ 東京  
 https://www.newotani.co.jp/tokyo/
 
-### ディナー
+### ランチ
+
+> 3/23 (土)
+
+THE OVEN  
+https://americanhouse.co.jp/shop/the-oven-aqua-city-odaiba/  
+アメリカン ビュッフェ レストラン
 
 > 3/24 (日)
 
-会場未定
+赤坂 浅田  
+https://www.asadayaihei.co.jp/akasaka/
 
 > 3/25 (月)
 
-会場未定
+YEBISU BAR 神楽坂店  
+https://www.ginzalion.jp/shop/brand/yebisubar/shop62.html
 
 > 3/26 (火)
 
-ホテル雅叙園東京  
-https://www.hotelgajoen-tokyo.com/
+AZZURRI アズーリ 神楽坂  
+https://tokyo-shokusai.co.jp/restaurants/#azzurri
+
+### ディナー
+
+> 3/23 (土)
+
+ホテルニューオータニ もみじ亭  
+https://www.newotani.co.jp/tokyo/restaurant/garden-momiji/  
+鉄板焼 レストラン  
+ドレスコードなし
+
+> 3/24 (日)
+
+八芳園 サンライト  
+https://www.happo-en.com/wedding/banquet/sunlight/  
+ウェルカム ディナー  
+ドレスコードなし
+
+> 3/25 (月)
+
+屋形船 晴海屋  
+https://www.harumiya.co.jp/  
+ドレスコードなし
+
+> 3/26 (火)
+
+ホテル雅叙園東京 和室宴会場 鷲  
+https://www.hotelgajoen-tokyo.com/party/room/washi  
+ドレスコードなし

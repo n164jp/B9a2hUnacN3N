@@ -70,3 +70,12 @@
 
 ホテルニューオータニ 東京  
 https://www.newotani.co.jp/tokyo/
+
+### ディナー
+
+> 3/24 (日)
+
+八芳園 サンライト  
+https://www.happo-en.com/wedding/banquet/sunlight/  
+ウェルカム ディナー  
+ドレスコードなし
