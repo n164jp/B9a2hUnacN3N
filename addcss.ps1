@@ -5,11 +5,14 @@
 , "nfkyoto.html"
 , "nftokyo.html"
 , "presenter.html"
-, "staff.html", "welcomer.html"
+, "staff.html"
+, "welcomer.html"
 )
 $soc | %{
     $html = "C:\repos\B9a2hUnacN3N\$_"
     $data = Get-Content $html
-    $data[20] = $data[20] +"`n<link rel=`"stylesheet`" href=`"common.css`">"
-    $data | Out-File $html -Encoding UTF8
+    if ($data[21] -notmatch ".*common.css.*") {
+      $data[20] = $data[20] +"`n<link rel=`"stylesheet`" href=`"common.css`">"
+      $data | Out-File $html -Encoding UTF8
+    }
 }
