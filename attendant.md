@@ -203,15 +203,16 @@ https://tokyo-shokusai.co.jp/restaurants/#azzurri
 
 > 3/27 (水)
 
-南禅寺 順正  
-http://www.to-fu.co.jp/  
+清水順正「おかべ家」  
+https://www.okabeya.com/  
+ゆどうふ藤コース  
 ドレスコード: カジュアル (ジーンズ可)
 
 > 3/28 (木)
 
-魚三楼  
+京都・伏見の老舗料亭「魚三楼」  
 https://www.uosaburo.com/  
-京都伏見の老舗料亭  
+花籠御膳  
 ドレスコード: カジュアル (ジーンズ可)
 
 ### ディナー
@@ -224,7 +225,7 @@ https://www.hotelgajoen-tokyo.com/party/room/washi
 
 > 3/27 (水)
 
-京料理 ちもと  
+京料理「ちもと」  
 https://chimoto.jp/  
 ドレスコード: カジュアル (ジーンズ？)
 
