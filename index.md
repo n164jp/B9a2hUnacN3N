@@ -34,6 +34,8 @@ target="_blank"
 
 [京都同行者](./attendant.html)
 
-[京滋会先生](./nfkyoto.html)
+[京都先生](./nfkyoto.html)
 
 [全国会会長](./nfhead.html)
+
+[DATEV](./main.html)
