@@ -5,521 +5,471 @@ March 2024
 ## Overall itinerary
 
 - Sat, Mar 23 : Arrival in Japan, Dinner
-- Sun, Mar 24 : Tokyo Sightseeing、Welcome Dinner
+- Sun, Mar 24 : Tokyo Sightseeing、Welcome dinner
 - Mon, Mar 25 : Meeting, Dinner
 - Tue, Mar 26 : Meeting, Dinner & Gift Exchange
 - Wed, Mar 27 : Kyoto Sightseeing
-- Thu, Mar 28 : Back to Tokyo from Kyoto, Farewell Dinner
+- Thu, Mar 28 : Back to Tokyo from Kyoto, Farewell dinner
 - Fri, Mar 29 : Back to Germany
 
-## 行程詳細
+## Detailed itinerary
 
-> Mar. 23 (土)
+> Sat, Mar 23
 
-### LH714
+### LH714 flight
 
 - |09:05|Arrival at Haneda Airport|
   |--:|--|
-  ||<br>|
+  ||1st flight to Japan|
 
-- |10:00|Charter bus transfer|
+- |10:00|Traveling by chartered bus #1|
   |--:|--|
-  ||Go to Odaiba<br>|
+  ||Go to Odaiba|
 
 - |11:00|Sightseeing|
   |--:|--|
   ||[Odaiba](https://www.gotokyo.org/en/destinations/southern-tokyo/odaiba/index.html)|
 
-### LH716
+### LH716 flight
 
-> Mar. 23 (土)
+> Sat, Mar 23
 
 - |10:30|Arrival at Haneda Airport|
   |--:|--|
-  ||<br>|
+  ||2nd flight to Japan|
 
-- |11:30|貸切バス2号車移動|
+- |11:30|Traveling by chartered bus #2|
   |--:|--|
-  ||お台場へ<br>|
+  ||Go to Odaiba|
 
 ### Everyone
 
-> Mar. 23 (土)
+> Sat, Mar 23
 
 - |12:30|Lunch|
   |--:|--|
   ||[THE OVEN](https://americanhouse.co.jp/shop/the-oven-aqua-city-odaiba/)<br>Dress code : Casual (jeans allowed)|
 
-- |13:30|Bus tour|
+- |13:30|Traveling by chartered bus|
   |--:|--|
-  ||Go to Tokyo Tower<br>|
+  ||Go to Tokyo Tower|
 
 - |14:30|Sightseeing|
   |--:|--|
   ||[TOKYO TOWER](https://en.tokyotower.co.jp/)|
 
-- |16:00|Check in to the Hotel|
+- |16:00|Check in to the hotel|
   |--:|--|
-  ||[Hotel New Otani Tokyo](https://www.newotani.co.jp/en/tokyo/)<br>|
+  ||[Hotel New Otani Tokyo](https://www.newotani.co.jp/en/tokyo/)|
 
-- |18:00|Dinner at the Hotel|
+- |18:00|Dinner at the hotel|
   |--:|--|
-  ||[MOMIJI-TEI](https://www.newotani.co.jp/en/tokyo/restaurant/garden-momiji/) ...     Teppanyaki<br>Dress code : Casual (jeans allowed)|
+  ||[MOMIJI-TEI](https://www.newotani.co.jp/en/tokyo/restaurant/garden-momiji/) ... Teppanyaki<br>Dress code : Casual (jeans allowed)|
 
-### 出迎者3
+### NH218 flight
 
-> Mar. 24 (日)
+> Sun, Mar 24
 
-- |06:15|貸切バス1号車移動|
+- |06:55|Arrival at Haneda Airport|
   |--:|--|
-  ||ホテルから羽田空港へ|
+  ||3rd flight to Japan|
 
-- |06:55|来日第3便到着|
+- |08:00|Traveling by chartered bus #1|
   |--:|--|
-  ||出迎え･合流|
+  ||Go to Meiji Jingu Shrine|
 
-- |08:00|貸切バス1号車移動|
+### LH714 and LH716 flights
+
+> Sun, Mar 24
+
+- |09:30|Traveling by chartered bus #2|
   |--:|--|
-  ||明治神宮へ|
+  ||Go to Meiji Jingu Shrine|
 
-### 出迎者1+2
+### LH714, LH716, and NH218 flights
 
-> Mar. 24 (日)
+> Sun, Mar 24
 
-- |09:30|貸切バス2号車移動|
+- |10:00|Sightseeing|
   |--:|--|
-  ||明治神宮へ|
+  ||[Meiji Jingu Shrine](https://www.meijijingu.or.jp/en/)|
 
-### 出迎者1+2+3
-
-> Mar. 24 (日)
-
-- |10:00|観光|
+- |12:00|Lunch|
   |--:|--|
-  ||明治神宮|
+  ||[Ryotei ASADA](https://www.asadayaihei.co.jp/lp/english/)<br>Dress code: Casual (Jeans allowed)|
 
-- |12:00|ランチ|
+- |13:30|Sightseeing|
   |--:|--|
-  ||赤坂 浅田<br>松本先生と合流|
+  ||[Chidori-ga-fuchi](https://www.gotokyo.org/en/spot/45/index.html)<br>[Sumida Park](https://www.gotokyo.org/en/spot/506/index.html) ... from the car window<br>[Senso-ji](https://www.senso-ji.jp/english/)|
 
-- |13:30|観光|
+### CA181 flight
+
+> Sun, Mar 24
+
+- |12:50|Arrival at Haneda Airport|
   |--:|--|
-  ||貸切バス2台移動<br>千鳥ヶ淵<br>隅田公園<br>浅草寺|
+  ||4th flight to Japan|
 
-### 出迎者4
-
-> Mar. 24 (日)
-
-- |12:10|ジャンボハイヤー移動|
+- |13:50|Traveling by taxi|
   |--:|--|
-  ||ホテルから羽田空港へ|
+  ||Go to the hotel|
 
-- |12:50|来日第4便到着|
+- |14:30|Arrival at the hotel|
   |--:|--|
-  ||出迎え･合流|
+  ||[Hotel New Otani Tokyo](https://www.newotani.co.jp/en/tokyo/)<br>After having lunch, check in to the hotel|
 
-- |13:50|ジャンボハイヤー移動|
+### Everyone
+
+> Sun, Mar 24
+
+- |16:50|Arrival at the hotel|
   |--:|--|
-  ||羽田空港からホテルへ|
+  ||[Hotel New Otani Tokyo](https://www.newotani.co.jp/en/tokyo/)<br>Short break until dinner|
 
-- |14:30|ホテルへ到着|
+- |18:00|Traveling by chartered bus|
   |--:|--|
-  ||荷物をホテルへ預け、ランチ後チェックイン|
+  ||Go to the dinner venue|
 
-### 出迎者全員
-
-> Mar. 24 (日)
-
-- |16:50|ホテルへ帰着|
+- |18:30|Welcome dinner|
   |--:|--|
-  ||ディナーまで小休止|
+  ||[HAPPO-EN Sunlight](https://www.happo-en.com/banquet/place/place.php?id=box03)<br>Dress code: Jacket required (tie optional)|
 
-- |18:00|貸切バス2台移動|
+- |20:30|Traveling by chartered bus|
   |--:|--|
-  ||ホテルからディナー会場へ|
+  ||Go to the hotel|
 
-- |18:30|Welcome ディナー|
+- |21:00|Arrival at the hotel|
   |--:|--|
-  ||八芳園|
+  ||[Hotel New Otani Tokyo](https://www.newotani.co.jp/en/tokyo/)|
 
-- |20:30|貸切バス2台移動|
+> Mon, Mar 25
+
+- |08:30|Ladies' Plan|
   |--:|--|
-  ||ディナー会場からホテルへ|
+  ||Go to Kamakura<br>See attachment for details.|
 
-- |21:00|ホテルへ帰着|
+- |09:00|Traveling by chartered bus|
   |--:|--|
-  ||宿泊|
+  ||Go to TKC Tokyo headquarters|
 
-> Mar. 25 (月)
-
-- |09:00|貸切バス2台移動|
-  |--:|--|
-  ||ホテルから東京本社へ|
-
-- |09:30|ミーティングAM|
+- |09:30|Meeting in the morning|
   |--:|--|
   ||<br>|
 
-- |12:00|集合写真撮影|
+- |12:15|Lunch|
+  |--:|--|
+  ||[YEBISU BAR](https://www.ginzalion.jp/shop/brand/yebisubar/)|
+
+- |13:45|Meeting in the afternoon|
   |--:|--|
   ||<br>|
 
-- |12:30|ランチ|
+- |17:00|Traveling by chartered bus|
   |--:|--|
-  ||DATEVに同行|
+  ||From TKC Tokyo headquarters to the hotel|
 
-- |13:30|ミーティングPM|
+- |17:30|Arrival at the hotel|
   |--:|--|
-  ||<br>|
+  ||Short break until dinner|
 
-- |17:00|貸切バス2台移動|
+- |18:00|Traveling by chartered bus|
   |--:|--|
-  ||東京本社からホテルへ|
+  ||Go to the dinner venue|
 
-- |17:30|ホテルへ帰着|
+- |18:30|Dinner|
   |--:|--|
-  ||ディナーまで小休止|
+  ||[Traditional Japanese-style Cruising Restaurant "HARUMIYA"](https://yakatabune-tokyo.com/index.html)<br>Dress code: Casual (Jeans allowed)|
 
-- |18:00|貸切バス2台移動|
+- |20:30|Traveling by chartered bus|
   |--:|--|
-  ||ホテルからディナー会場へ|
+  ||Go to the hotel|
 
-- |18:30|ディナー|
+- |21:00|Arrival at the hotel|
   |--:|--|
-  ||屋形船<br>プレゼント交換|
+  ||[Hotel New Otani Tokyo](https://www.newotani.co.jp/en/tokyo/)|
 
-- |20:30|貸切バス2台移動|
+> Tue, Mar 26
+
+- |08:30|Ladies' Plan|
   |--:|--|
-  ||ディナー会場からホテルへ|
+  ||Go to Shibuya<br>See attachment for details.|
 
-- |21:00|ホテルへ帰着|
+- |09:00|Traveling by chartered bus|
   |--:|--|
-  ||宿泊|
+  ||Go to TKC Tokyo headquarters|
 
-> Mar. 26 (火)
-
-- |08:50|ホテルをチェックアウト|
-  |--:|--|
-  ||貸切バスに荷物収納|
-
-- |09:00|貸切バス2台移動|
-  |--:|--|
-  ||ホテルから東京本社へ|
-
-- |09:30|ミーティングAM|
-  |--:|--|
-  ||荷物は東京本社に留置き|
-
-- |12:00|ランチ|
-  |--:|--|
-  ||DATEVに同行|
-
-- |13:30|ミーティングPM|
+- |09:30|Meeting in the morning|
   |--:|--|
   ||<br>|
 
-- |17:00|貸切バス2台移動|
+- |12:15|Lunch|
   |--:|--|
-  ||東京本社からホテルへ|
+  ||[AZZURRI Kagurazaka](https://tokyo-shokusai.co.jp/en/restaurants/#azzurri)|
 
-- |17:30|ホテルへ帰着|
-  |--:|--|
-  ||ロビー等で待機|
-
-- |18:00|貸切バス2台移動|
-  |--:|--|
-  ||ホテルからディナー会場へ|
-
-- |18:30|ディナー|
-  |--:|--|
-  ||雅叙園<br>|
-
-- |20:30|貸切バス2台移動|
-  |--:|--|
-  ||ディナー会場から東京本社へ|
-
-- |21:00|JR移動|
-  |--:|--|
-  ||荷物回収後、各自帰途へ|
-
-> Mar. 26 (火)
-
-- |09:00|貸切バス2台移動|
-  |--:|--|
-  ||チェックアウトせず、ホテルから東京本社へ|
-
-- |09:30|ミーティングAM|
+- |13:30|Meeting in the afternoon|
   |--:|--|
   ||<br>|
 
-- |12:00|ランチ|
-  |--:|--|
-  ||DATEVと別会場|
-
-- |13:30|ミーティングPM|
+- |14:35|Group photo session|
   |--:|--|
   ||<br>|
 
-- |17:00|貸切バス2台移動|
+- |17:00|Traveling by chartered bus|
   |--:|--|
-  ||東京本社からホテルへ|
+  ||From TKC Tokyo headquarters to the hotel|
 
-- |17:30|ホテルへ帰着|
+- |17:30|Arrival at the hotel|
   |--:|--|
-  ||ディナーまで小休止|
+  ||Short break until dinner|
 
-- |18:00|貸切バス2台移動|
+- |18:00|Traveling by chartered bus|
   |--:|--|
-  ||ホテルからディナー会場へ|
+  ||Go to the dinner venue|
 
-- |18:30|ディナー|
+- |18:30|Dinner|
   |--:|--|
-  ||雅叙園<br>|
+  ||[HOTEL GAJOEN TOKYO](https://www.hotelgajoen-tokyo.com/en/meeting-rooms/washi/)<br>Dress code: Jacket required (tie optional)|
 
-- |20:30|貸切バス2台移動|
+- |20:30|Traveling by chartered bus|
   |--:|--|
-  ||ディナー会場からホテルへ|
+  ||Go to the hotel|
 
-- |21:00|ホテルへ帰着|
+> Wed, Mar 27
+
+- |06:30|Check out of the hotel|
   |--:|--|
-  ||宿泊|
+  ||Carry only the luggage for Kyoto.<br>Other luggage will be left at the hotel.|
 
-> Mar. 27 (水)
-
-- |06:30|ホテルをチェックアウト|
+- |06:40|Traveling by chartered bus|
   |--:|--|
-  ||京都持参の荷物のみ携行<br>その他の荷物はホテルへ預ける|
+  ||Go to Tokyo Station|
 
-- |06:40|貸切バス2台移動|
+- |07:39|Traveling by JR Shinkansen|
   |--:|--|
-  ||ホテルから東京駅へ|
+  ||Go to [Kyoto](https://www.google.com/maps/dir/Tokyo+Station,+1+Chome+Marunouchi,+Chiyoda+City,+Tokyo+100-0005/Kyoto+Station,+Higashishiokoji+Kamadonocho,+Shimogyo+Ward,+Kyoto/@35.1874658,136.4460704,8z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x60188bfbd89f700b:0x277c49ba34ed38!2m2!1d139.7671248!2d35.6812362!1m5!1m1!1s0x600108ae918b02ef:0xb61a446e74a21c08!2m2!1d135.7587667!2d34.985849!3e3?authuser=0&hl=en&entry=ttu)<br>Boarding the Nozomi 207|
 
-- |07:39|JR新幹線移動|
+- |10:10|Traveling by chartered bus|
   |--:|--|
-  ||東京から京都へ<br>のぞみ207|
+  ||Go to Kiyomizu-dera Temple|
 
-- |10:10|貸切バス2台移動|
+- |10:40|Sightseeing|
   |--:|--|
-  ||京都駅から清水寺へ|
+  ||[Kiyomizu-dera Temple](https://www.kiyomizudera.or.jp/en/)|
 
-- |10:40|観光|
+- |13:10|Lunch|
   |--:|--|
-  ||清水寺|
+  ||[Tofu restaurant Yudofu　KIYOMIZU "JUNSEI"](https://www.okabeya.com/lang/en.html)<br>Dress code: Casual (Jeans allowed)|
 
-- |13:10|ランチ|
+- |14:10|Traveling by chartered bus|
   |--:|--|
-  ||<br>|
+  ||Go to Heian Shrine|
 
-- |14:10|貸切バス2台移動|
+- |14:30|Sightseeing|
   |--:|--|
-  ||平安神宮へ|
+  ||[Heian Jingu Shrine](https://www.heianjingu.or.jp/english/english.html)<br>[Kyoto Handicraft Center](https://www.kyotohandicraftcenter.com/?lang=en) ... Popular shopping spots|
 
-- |14:30|観光|
+- |16:50|Traveling by chartered bus|
   |--:|--|
-  ||平安神宮<br>京都ハンディクラフトセンター|
+  ||Go to CHIMOTO|
 
-- |16:50|貸切バス2台移動|
+- |17:00|Dinner|
   |--:|--|
-  ||ちもとへ|
+  ||[CHIMOTO](https://chimoto.jp/en/top/)<br>Dress code: Casual (Jeans allowed)|
 
-- |17:00|ディナー|
+- |19:30|Sightseeing|
   |--:|--|
-  ||ちもと<br>京滋会先生と合流|
+  ||[To-ji Temple](https://toji.or.jp/en/index.html) ... Night cherry blossom viewing|
 
-- |19:30|観光|
+- |20:30|Traveling by chartered bus|
   |--:|--|
-  ||平等院鳳凰堂ライトアップ|
+  ||Go to [Nara](https://www.google.com/maps/dir/T%C5%8D-ji+Temple,+1+Kujocho,+Minami+Ward,+Kyoto,+601-8473/JW+Marriott+Hotel+Nara,+1+Chome-1+Sanjooji,+Nara+630-8013/@34.7753918,134.8195861,9z/data=!4m14!4m13!1m5!1m1!1s0x6001060485fbaa4d:0xd3ee2dd9b0177910!2m2!1d135.747786!2d34.9805982!1m5!1m1!1s0x60013bde91bef4fb:0xb1ba047955ccbffe!2m2!1d135.8052131!2d34.6839565!3e0?authuser=0&hl=en&entry=ttu)|
 
-- |20:30|貸切バス2台移動|
+- |21:15|Check in to the hotel|
   |--:|--|
-  ||京都から奈良へ|
+  ||[JW MARRIOTT HOTEL NARA](https://www.marriott.com/en-us/hotels/osajw-jw-marriott-hotel-nara/overview/)|
 
-- |21:15|ホテルへチェックイン|
-  |--:|--|
-  ||宿泊|
+> Thu, Mar 28
 
-> Mar. 28 (木)
-
-- |08:30|ホテルをチェックアウト|
-  |--:|--|
-  ||貸切バス2台移動<br>|
-
-- |08:45|観光|
-  |--:|--|
-  ||東大寺<br>春日大社|
-
-- |12:00|ランチ|
+- |08:20|Check out of the hotel|
   |--:|--|
   ||<br>|
 
-- |13:30|観光|
+- |08:30|Traveling by chartered bus|
   |--:|--|
-  ||伏見稲荷大社|
+  ||Go to Tōdai-ji Temple|
 
-- |15:30|JR新幹線移動|
+- |08:45|Sightseeing|
   |--:|--|
-  ||京都から東京へ<br>のぞみ232|
+  ||[Tōdai-ji Temple](https://www.todaiji.or.jp/en/)<br>[Kasugataisha Shrine](https://www.kasugataisha.or.jp/en/about_en/)|
 
-- |18:15|徒歩移動|
+- |12:00|Lunch|
   |--:|--|
-  ||東京駅からディナー会場へ|
+  ||[Ryoutei japanese restaurant - Uosaburo](https://www.uosaburo.com/english.html)<br>Dress code: Casual (Jeans allowed)|
 
-- |18:30|Farewell ディナー|
+- |13:30|Sightseeing|
   |--:|--|
-  ||The Upper<br>坂本会長、浅香局長と合流|
+  ||[Fushimi Inari Taisha](https://inari.jp/en/) ... Photogenic!|
 
-- |20:30|地下鉄移動|
+- |15:30|Traveling by JR Shinkansen|
   |--:|--|
-  ||ディナー会場からホテルへ|
+  ||Go to [Tokyo](https://www.google.com/maps/dir/Kyoto+Station,+Higashishiokoji+Kamadonocho,+Shimogyo+Ward,+Kyoto/Tokyo+Station,+1+Chome+Marunouchi,+Chiyoda+City,+Tokyo+100-0005/@35.1928467,136.4480529,8z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x600108ae918b02ef:0xb61a446e74a21c08!2m2!1d135.7587667!2d34.985849!1m5!1m1!1s0x60188bfbd89f700b:0x277c49ba34ed38!2m2!1d139.7671248!2d35.6812362!3e3?authuser=0&hl=en&entry=ttu)<br>Boarding the Nozomi 232|
 
-- |21:00|ホテルへ帰着|
+- |18:15|Traveling on foot|
   |--:|--|
-  ||宿泊|
+  ||Go to the dinner venue|
 
-### 京都同行者1
-
-> Mar. 29 (金)
-
-- |07:00|ホテルをチェックアウト|
+- |18:30|Farewell dinner|
   |--:|--|
-  ||荷物をバスに収納|
+  ||[The Upper](https://the-upper.jp/)<br>Dress code: Casual (Jeans allowed)|
 
-- |07:15|貸切バス１号車移動|
+- |20:30|Traveling by subway|
   |--:|--|
-  ||ホテルから羽田空港へ|
+  ||Go to the hotel|
 
-- |08:30|帰国第1便見送り|
+- |21:00|Arrival at the hotel|
   |--:|--|
-  ||見送り後、解散<br>各自帰途へ|
+  ||[Hotel New Otani Tokyo](https://www.newotani.co.jp/en/tokyo/)<br>Check in to the hotel again|
 
-### 京都同行者2
+### LH715 flight
 
-> Mar. 29 (金)
+> Fri, Mar 29
 
-- |09:00|ホテルをチェックアウト|
+- |07:00|Check out of the hotel|
   |--:|--|
-  ||荷物をバスに収納|
+  ||Receiving the boxed lunch<br>Loading luggage onto the bus|
 
-- |09:15|貸切バス２号車移動|
+- |07:15|Traveling by chartered bus #1|
   |--:|--|
-  ||ホテルから羽田空港へ|
+  ||Go to Haneda Airport|
 
-- |10:30|帰国第2便見送り|
+- |08:30|Farewell|
   |--:|--|
-  ||見送り後、解散<br>各自帰途へ|
+  ||Take care on your way home.|
 
-## 附録
+- |10:45|Departure to Germany|
+  |--:|--|
+  ||1st flight to Germany|
 
-### 宿泊
+### LH717 flight
 
-> Mar. 23 (土) ～ 25 (月)
+> Fri, Mar 29
 
-ホテルニューオータニ 東京  
-https://www.newotani.co.jp/tokyo/
+- |09:00|Check out of the hotel|
+  |--:|--|
+  ||Loading luggage onto the bus|
 
-### ランチ
+- |09:15|Traveling by chartered bus #2|
+  |--:|--|
+  ||Go to Haneda Airport|
 
-> Mar. 23 (土)
+- |10:30|Farewell|
+  |--:|--|
+  ||Take care on your way home.|
+
+- |12:35|Departure to Germany|
+  |--:|--|
+  ||2nd flight to Germany|
+
+### CA926 flight
+
+> Fri, Mar 29
+
+- |12:00|Check out of the hotel|
+  |--:|--|
+  ||<br>|
+
+> Sun, Mar 31
+
+- |14:20|Departure to Germany|
+  |--:|--|
+  ||3rd flight to Germany|
+
+## Appendix
+
+### Hotel
+
+> Sat, Mar 23 - Mon, Mar 25 & Thu, Mar 28
+
+Hotel New Otani Tokyo  
+https://www.newotani.co.jp/en/tokyo/
+
+> Wer, Mar 27
+
+JW MARRIOTT HOTEL NARA  
+https://www.marriott.com/en-us/hotels/osajw-jw-marriott-hotel-nara/overview/
+
+### Lunch
+
+> Sat, Mar 23
 
 THE OVEN  
 https://americanhouse.co.jp/shop/the-oven-aqua-city-odaiba/  
-アメリカン ビュッフェ レストラン
+Dress code : Casual (jeans allowed)
 
-> Mar. 24 (日)
+> Sun, Mar 24
 
-赤坂 浅田  
-https://www.asadayaihei.co.jp/akasaka/
+Ryotei ASADA  
+https://www.asadayaihei.co.jp/lp/english/  
+Dress code: Casual (Jeans allowed)
 
-> Mar. 25 (月)
+> Mon, Mar 25
 
-YEBISU BAR 神楽坂店  
-https://www.ginzalion.jp/shop/brand/yebisubar/shop62.html
+YEBISU BAR Kagurazaka  
+https://www.ginzalion.jp/shop/brand/yebisubar/
 
-> Mar. 26 (火)
+> Tue, Mar 26
 
-AZZURRI アズーリ 神楽坂  
-https://tokyo-shokusai.co.jp/restaurants/#azzurri
+AZZURRI Kagurazaka  
+https://tokyo-shokusai.co.jp/en/restaurants/#azzurri
 
-### ディナー
+> Wed, Mar 27
 
-> Mar. 23 (土)
+Tofu restaurant Yudofu　KIYOMIZU "JUNSEI"  
+https://www.okabeya.com/lang/en.html  
+Dress code: Casual (Jeans allowed)
 
-ホテルニューオータニ もみじ亭  
-https://www.newotani.co.jp/tokyo/restaurant/garden-momiji/  
-鉄板焼 レストラン  
-ドレスコード: カジュアル (ジーンズ可)
+> Thu, Mar 28
 
-> Mar. 24 (日)
+Ryoutei japanese restaurant "Uosaburo"  
+https://www.uosaburo.com/english.html  
+Dress code: Casual (Jeans allowed)
 
-八芳園 サンライト  
-https://www.happo-en.com/wedding/banquet/sunlight/  
-ウェルカム ディナー  
-ドレスコード: ジャケット着用 (ネクタイ不要)
+### Dinner
 
-> Mar. 25 (月)
+> Sat, Mar 23
 
-屋形船 晴海屋  
-https://www.harumiya.co.jp/  
-ドレスコード: カジュアル (ジーンズ可)
+MOMIJI-TEI  
+https://www.newotani.co.jp/en/tokyo/restaurant/garden-momiji/  
+Dress code : Casual (jeans allowed)
 
-> Mar. 26 (火)
+> Sun, Mar 24
 
-ホテル雅叙園東京 和室宴会場 鷲  
-https://www.hotelgajoen-tokyo.com/party/room/washi  
-ドレスコード: ジャケット着用 (ネクタイ不要)
+Welcome dinner  
+HAPPO-EN Sunlight  
+https://www.happo-en.com/banquet/place/place.php?id=box03  
+Dress code: Jacket required (tie optional)
 
-## 附録
+> Mon, Mar 25
 
-### 宿泊
+Traditional Japanese-style Cruising Restaurant "HARUMIYA"  
+https://yakatabune-tokyo.com/index.html  
+Dress code: Casual (Jeans allowed)
 
-> Mar. 23 (土) ～ 25 (月)、 28 (木)
+> Tue, Mar 26
 
-ホテルニューオータニ 東京  
-https://www.newotani.co.jp/tokyo/
-
-> Mar. 27 (土)
-
-JWマリオット・ホテル奈良  
-https://www.marriott.com/ja/hotels/osajw-jw-marriott-hotel-nara/overview/
-
-### ランチ
-
-> Mar. 26 (火)
-
-AZZURRI アズーリ 神楽坂  
-https://tokyo-shokusai.co.jp/restaurants/#azzurri
+HOTEL GAJOEN TOKYO Meeting Room "Washi"  
+https://www.hotelgajoen-tokyo.com/en/meeting-rooms/washi/  
+Dress code: Jacket required (tie optional)
 
 > Mar. 27 (水)
 
-清水順正「おかべ家」  
-https://www.okabeya.com/  
-ゆどうふ藤コース  
-ドレスコード: カジュアル (ジーンズ可)
+CHIMOTO  
+https://chimoto.jp/en/top/  
+Dress code: Casual (Jeans allowed)
 
 > Mar. 28 (木)
 
-京都・伏見の老舗料亭「魚三楼」  
-https://www.uosaburo.com/  
-花籠御膳  
-ドレスコード: カジュアル (ジーンズ可)
-
-### ディナー
-
-> Mar. 26 (火)
-
-ホテル 雅叙園 東京 和室宴会場 鷲  
-https://www.hotelgajoen-tokyo.com/party/room/washi  
-ドレスコード: ジャケット着用 (ネクタイ不要)
-
-> Mar. 27 (水)
-
-京料理「ちもと」  
-https://chimoto.jp/  
-ドレスコード: カジュアル (ジーンズ？)
-
-> Mar. 28 (木)
-
-THE UPPER  
+Farewell dinner  
+The Upper  
 https://the-upper.jp/  
-フェアウェル ディナー  
-ドレスコード: カジュアル (ジーンズ？)
+Dress code: Casual (Jeans allowed)

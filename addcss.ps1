@@ -8,8 +8,7 @@
 , "staff.html"
 , "welcomer.html"
 , "questioner.html"
-, "mainja.html"
-, "mainen.html"
+, "main.html"
 )
 $soc | %{
   $html = "C:\repos\B9a2hUnacN3N\$_"
