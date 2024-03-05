@@ -2,7 +2,7 @@
 
 March 2024
 
-## Overall itinerary
+## Overall
 
 ||||
 |--:|--|--|
@@ -14,7 +14,7 @@ March 2024
 |Thu, Mar 28||Back to Tokyo from Kyoto, Farewell dinner|
 |Fri, Mar 29||Back to Germany|
 
-## Detailed itinerary
+## Detailes
 
 > Mon, Mar 25
 
