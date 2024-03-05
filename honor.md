@@ -32,7 +32,7 @@
 
 - |16:50|ホテルへチェックイン|
   |--:|--|
-  ||<br>|
+  ||[ホテルニューオータニ 東京](https://www.newotani.co.jp/tokyo/)<br>|
 
 - |18:00|貸切バス２台移動|
   |--:|--|
@@ -40,7 +40,7 @@
 
 - |18:30|Welcome ディナー|
   |--:|--|
-  ||八芳園<br>|
+  ||[八芳園 サンライト](https://www.happo-en.com/wedding/banquet/sunlight/)<br>ドレスコード: ジャケット着用 (ネクタイ不要)|
 
 - |20:30|貸切バス２台移動|
   |--:|--|
@@ -48,13 +48,13 @@
 
 - |21:00|ホテルへ帰着|
   |--:|--|
-  ||後泊|
+  ||[ホテルニューオータニ 東京](https://www.newotani.co.jp/tokyo/)<br>後泊|
 
 > 3/25 (月)
 
 - |11:00|ホテルをチェックアウト|
   |--:|--|
-  ||<br>|
+  ||[ホテルニューオータニ 東京](https://www.newotani.co.jp/tokyo/)<br>|
 
 - |11:00|タクシー移動|
   |--:|--|
@@ -77,7 +77,7 @@ https://www.newotani.co.jp/tokyo/
 
 > 3/24 (日)
 
+Welcome ディナー  
 八芳園 サンライト  
 https://www.happo-en.com/wedding/banquet/sunlight/  
-ウェルカム ディナー  
 ドレスコード: ジャケット着用 (ネクタイ不要)
