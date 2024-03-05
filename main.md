@@ -4,13 +4,15 @@ March 2024
 
 ## Overall itinerary
 
-- Sat, Mar 23 : Arrival in Japan, Dinner
-- Sun, Mar 24 : Tokyo Sightseeing、Welcome dinner
-- Mon, Mar 25 : Meeting, Dinner
-- Tue, Mar 26 : Meeting, Dinner & Gift Exchange
-- Wed, Mar 27 : Kyoto Sightseeing
-- Thu, Mar 28 : Back to Tokyo from Kyoto, Farewell dinner
-- Fri, Mar 29 : Back to Germany
+||||
+|--:|--|--|
+|Sat, Mar 23||Arrival in Japan, Dinner|
+|Sun, Mar 24||Tokyo Sightseeing、Welcome dinner|
+|Mon, Mar 25||Meeting, Dinner|
+|Tue, Mar 26||Meeting, Dinner & Gift Exchange|
+|Wed, Mar 27||Kyoto Sightseeing|
+|Thu, Mar 28||Back to Tokyo from Kyoto, Farewell dinner|
+|Fri, Mar 29||Back to Germany|
 
 ## Detailed itinerary
 
@@ -86,7 +88,7 @@ March 2024
   |--:|--|
   ||Go to Meiji Jingu Shrine|
 
-### LH714, LH716, and NH218 flights
+### LH714, LH716 and NH218 flights
 
 > Sun, Mar 24
 
@@ -110,7 +112,7 @@ March 2024
   |--:|--|
   ||4th flight to Japan|
 
-- |13:50|Traveling by taxi|
+- |13:50|Traveling by jumbo taxi|
   |--:|--|
   ||Go to the hotel|
 
@@ -144,7 +146,7 @@ March 2024
 
 > Mon, Mar 25
 
-- |08:30|Ladies' Plan|
+- |08:30|[Ladies' Plan](./lplan.html)|
   |--:|--|
   ||Go to Kamakura<br>See attachment for details.|
 
@@ -190,7 +192,7 @@ March 2024
 
 > Tue, Mar 26
 
-- |08:30|Ladies' Plan|
+- |08:30|[Ladies' Plan](./lplan.html)|
   |--:|--|
   ||Go to Shibuya<br>See attachment for details.|
 
@@ -461,13 +463,13 @@ HOTEL GAJOEN TOKYO Meeting Room "Washi"
 https://www.hotelgajoen-tokyo.com/en/meeting-rooms/washi/  
 Dress code: Jacket required (tie optional)
 
-> Mar. 27 (水)
+> Wed, Mar 27
 
 CHIMOTO  
 https://chimoto.jp/en/top/  
 Dress code: Casual (Jeans allowed)
 
-> Mar. 28 (木)
+> Thu, Mar 28
 
 Farewell dinner  
 The Upper  

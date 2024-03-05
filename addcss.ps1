@@ -9,6 +9,7 @@
 , "welcomer.html"
 , "questioner.html"
 , "main.html"
+, "lplan.html"
 )
 $soc | %{
   $html = "C:\repos\B9a2hUnacN3N\$_"
