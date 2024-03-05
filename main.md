@@ -22,11 +22,11 @@ March 2024
 
 - |09:05|Arrival at Haneda Airport|
   |--:|--|
-  ||1st flight to Japan|
+  ||LH714 Flight to Japan|
 
-- |10:00|Traveling by chartered bus #1|
+- |10:00|Departure for [Odaiba](https://www.google.com/maps/dir/Haneda+Airport,+Hanedakuko,+Ota+City,+Tokyo+144-0041/Odaiba,+Tokyo/@35.590228,139.731035,13z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x6018640ba43192e3:0xd32c3a9d146f8df!2m2!1d139.7798386!2d35.5493932!1m5!1m1!1s0x601889f82c55d4cb:0x79fe8b211d2010b9!2m2!1d139.7805445!2d35.6205834!3e0?authuser=0&hl=en&entry=ttu) (Chartered bus #1)|
   |--:|--|
-  ||Go to Odaiba|
+  |||
 
 - |11:00|Sightseeing|
   |--:|--|
@@ -38,11 +38,11 @@ March 2024
 
 - |10:30|Arrival at Haneda Airport|
   |--:|--|
-  ||2nd flight to Japan|
+  ||LH716 Flight to Japan|
 
-- |11:30|Traveling by chartered bus #2|
+- |11:30|Departure for [Odaiba](https://www.google.com/maps/dir/Haneda+Airport,+Hanedakuko,+Ota+City,+Tokyo+144-0041/Odaiba,+Tokyo/@35.590228,139.731035,13z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x6018640ba43192e3:0xd32c3a9d146f8df!2m2!1d139.7798386!2d35.5493932!1m5!1m1!1s0x601889f82c55d4cb:0x79fe8b211d2010b9!2m2!1d139.7805445!2d35.6205834!3e0?authuser=0&hl=en&entry=ttu) (Chartered bus #2)|
   |--:|--|
-  ||Go to Odaiba|
+  |||
 
 ### Everyone
 
@@ -52,9 +52,9 @@ March 2024
   |--:|--|
   ||[THE OVEN](https://americanhouse.co.jp/shop/the-oven-aqua-city-odaiba/)<br>Dress code : Casual (jeans allowed)|
 
-- |13:30|Traveling by chartered bus|
+- |13:30|Departure for Tokyo Tower (Chartered bus)|
   |--:|--|
-  ||Go to Tokyo Tower|
+  |||
 
 - |14:30|Sightseeing|
   |--:|--|
@@ -74,19 +74,19 @@ March 2024
 
 - |06:55|Arrival at Haneda Airport|
   |--:|--|
-  ||3rd flight to Japan|
+  ||NH218 Flight to Japan|
 
-- |08:00|Traveling by chartered bus #1|
+- |08:00|Departure for Meiji Jingu Shrine (Chartered bus #1)|
   |--:|--|
-  ||Go to Meiji Jingu Shrine|
+  |||
 
 ### LH714 and LH716 flights
 
 > Sun, Mar 24
 
-- |09:30|Traveling by chartered bus #2|
+- |09:30|Departure for Meiji Jingu Shrine (Chartered bus #2)|
   |--:|--|
-  ||Go to Meiji Jingu Shrine|
+  |||
 
 ### LH714, LH716 and NH218 flights
 
@@ -110,11 +110,11 @@ March 2024
 
 - |12:50|Arrival at Haneda Airport|
   |--:|--|
-  ||4th flight to Japan|
+  ||CA181 Flight to Japan|
 
-- |13:50|Traveling by jumbo taxi|
+- |13:50|Departure for hotel (jumbo taxi)|
   |--:|--|
-  ||Go to the hotel|
+  |||
 
 - |14:30|Arrival at the hotel|
   |--:|--|
@@ -128,17 +128,17 @@ March 2024
   |--:|--|
   ||[Hotel New Otani Tokyo](https://www.newotani.co.jp/en/tokyo/)<br>Short break until dinner|
 
-- |18:00|Traveling by chartered bus|
+- |18:00|Departure for dinner (Chartered bus)|
   |--:|--|
-  ||Go to the dinner venue|
+  |||
 
 - |18:30|Welcome dinner|
   |--:|--|
   ||[HAPPO-EN Sunlight](https://www.happo-en.com/banquet/place/place.php?id=box03)<br>Dress code: Jacket required (tie optional)|
 
-- |20:30|Traveling by chartered bus|
+- |20:30|Departure for hotel (Chartered bus)|
   |--:|--|
-  ||Go to the hotel|
+  |||
 
 - |21:00|Arrival at the hotel|
   |--:|--|
@@ -150,9 +150,9 @@ March 2024
   |--:|--|
   ||Go to Kamakura<br>See attachment for details.|
 
-- |09:00|Traveling by chartered bus|
+- |09:00|Departure for TKC Tokyo Head Office (Chartered bus)|
   |--:|--|
-  ||Go to TKC Tokyo headquarters|
+  |||
 
 - |09:30|Meeting in the morning|
   |--:|--|
@@ -166,25 +166,25 @@ March 2024
   |--:|--|
   ||<br>|
 
-- |17:00|Traveling by chartered bus|
+- |17:00|Departure for hotel (Chartered bus)|
   |--:|--|
-  ||From TKC Tokyo headquarters to the hotel|
+  |||
 
 - |17:30|Arrival at the hotel|
   |--:|--|
   ||Short break until dinner|
 
-- |18:00|Traveling by chartered bus|
+- |18:00|Departure for dinner (Chartered bus)|
   |--:|--|
-  ||Go to the dinner venue|
+  |||
 
 - |18:30|Dinner|
   |--:|--|
   ||[Traditional Japanese-style Cruising Restaurant "HARUMIYA"](https://yakatabune-tokyo.com/index.html)<br>Dress code: Casual (Jeans allowed)|
 
-- |20:30|Traveling by chartered bus|
+- |20:30|Departure for hotel (Chartered bus)|
   |--:|--|
-  ||Go to the hotel|
+  |||
 
 - |21:00|Arrival at the hotel|
   |--:|--|
@@ -196,9 +196,9 @@ March 2024
   |--:|--|
   ||Go to Shibuya<br>See attachment for details.|
 
-- |09:00|Traveling by chartered bus|
+- |09:00|Departure for TKC Tokyo Head Office (Chartered bus)|
   |--:|--|
-  ||Go to TKC Tokyo headquarters|
+  |||
 
 - |09:30|Meeting in the morning|
   |--:|--|
@@ -216,25 +216,25 @@ March 2024
   |--:|--|
   ||<br>|
 
-- |17:00|Traveling by chartered bus|
+- |17:00|Departure for hotel (Chartered bus)|
   |--:|--|
-  ||From TKC Tokyo headquarters to the hotel|
+  |||
 
 - |17:30|Arrival at the hotel|
   |--:|--|
   ||Short break until dinner|
 
-- |18:00|Traveling by chartered bus|
+- |18:00|Departure for dinner (Chartered bus)|
   |--:|--|
-  ||Go to the dinner venue|
+  |||
 
 - |18:30|Dinner|
   |--:|--|
   ||[HOTEL GAJOEN TOKYO](https://www.hotelgajoen-tokyo.com/en/meeting-rooms/washi/)<br>Dress code: Jacket required (tie optional)|
 
-- |20:30|Traveling by chartered bus|
+- |20:30|Departure for hotel (Chartered bus)|
   |--:|--|
-  ||Go to the hotel|
+  |||
 
 > Wed, Mar 27
 
@@ -242,17 +242,17 @@ March 2024
   |--:|--|
   ||Carry only the luggage for Kyoto.<br>Other luggage will be left at the hotel.|
 
-- |06:40|Traveling by chartered bus|
+- |06:40|Departure for Tokyo Station (Chartered bus)|
   |--:|--|
-  ||Go to Tokyo Station|
+  |||
 
-- |07:39|Traveling by JR Shinkansen|
+- |07:39|Departure for [Kyoto](https://www.google.com/maps/dir/Tokyo+Station,+1+Chome+Marunouchi,+Chiyoda+City,+Tokyo+100-0005/Kyoto+Station,+Higashishiokoji+Kamadonocho,+Shimogyo+Ward,+Kyoto/@35.1874658,136.4460704,8z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x60188bfbd89f700b:0x277c49ba34ed38!2m2!1d139.7671248!2d35.6812362!1m5!1m1!1s0x600108ae918b02ef:0xb61a446e74a21c08!2m2!1d135.7587667!2d34.985849!3e3?authuser=0&hl=en&entry=ttu) (JR Shinkansen)|
   |--:|--|
-  ||Go to [Kyoto](https://www.google.com/maps/dir/Tokyo+Station,+1+Chome+Marunouchi,+Chiyoda+City,+Tokyo+100-0005/Kyoto+Station,+Higashishiokoji+Kamadonocho,+Shimogyo+Ward,+Kyoto/@35.1874658,136.4460704,8z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x60188bfbd89f700b:0x277c49ba34ed38!2m2!1d139.7671248!2d35.6812362!1m5!1m1!1s0x600108ae918b02ef:0xb61a446e74a21c08!2m2!1d135.7587667!2d34.985849!3e3?authuser=0&hl=en&entry=ttu)<br>Boarding the Nozomi 207|
+  ||Boarding the Nozomi 207<br>|
 
-- |10:10|Traveling by chartered bus|
+- |10:10|Departure for Kiyomizu-dera Temple (Chartered bus)|
   |--:|--|
-  ||Go to Kiyomizu-dera Temple|
+  |||
 
 - |10:40|Sightseeing|
   |--:|--|
@@ -262,17 +262,17 @@ March 2024
   |--:|--|
   ||[Tofu restaurant Yudofu　KIYOMIZU "JUNSEI"](https://www.okabeya.com/lang/en.html)<br>Dress code: Casual (Jeans allowed)|
 
-- |14:10|Traveling by chartered bus|
+- |14:10|Departure for Heian Shrine (Chartered bus)|
   |--:|--|
-  ||Go to Heian Shrine|
+  |||
 
 - |14:30|Sightseeing|
   |--:|--|
   ||[Heian Jingu Shrine](https://www.heianjingu.or.jp/english/english.html)<br>[Kyoto Handicraft Center](https://www.kyotohandicraftcenter.com/?lang=en) ... Popular shopping spots|
 
-- |16:50|Traveling by chartered bus|
+- |16:50|Departure for CHIMOTO (Chartered bus)|
   |--:|--|
-  ||Go to CHIMOTO|
+  |||
 
 - |17:00|Dinner|
   |--:|--|
@@ -282,9 +282,9 @@ March 2024
   |--:|--|
   ||[To-ji Temple](https://toji.or.jp/en/index.html) ... Night cherry blossom viewing|
 
-- |20:30|Traveling by chartered bus|
+- |20:30|Departure for [Nara](https://www.google.com/maps/dir/T%C5%8D-ji+Temple,+1+Kujocho,+Minami+Ward,+Kyoto,+601-8473/JW+Marriott+Hotel+Nara,+1+Chome-1+Sanjooji,+Nara+630-8013/@34.7753918,134.8195861,9z/data=!4m14!4m13!1m5!1m1!1s0x6001060485fbaa4d:0xd3ee2dd9b0177910!2m2!1d135.747786!2d34.9805982!1m5!1m1!1s0x60013bde91bef4fb:0xb1ba047955ccbffe!2m2!1d135.8052131!2d34.6839565!3e0?authuser=0&hl=en&entry=ttu) (Chartered bus)|
   |--:|--|
-  ||Go to [Nara](https://www.google.com/maps/dir/T%C5%8D-ji+Temple,+1+Kujocho,+Minami+Ward,+Kyoto,+601-8473/JW+Marriott+Hotel+Nara,+1+Chome-1+Sanjooji,+Nara+630-8013/@34.7753918,134.8195861,9z/data=!4m14!4m13!1m5!1m1!1s0x6001060485fbaa4d:0xd3ee2dd9b0177910!2m2!1d135.747786!2d34.9805982!1m5!1m1!1s0x60013bde91bef4fb:0xb1ba047955ccbffe!2m2!1d135.8052131!2d34.6839565!3e0?authuser=0&hl=en&entry=ttu)|
+  |||
 
 - |21:15|Check in to the hotel|
   |--:|--|
@@ -296,9 +296,9 @@ March 2024
   |--:|--|
   ||<br>|
 
-- |08:30|Traveling by chartered bus|
+- |08:30|Departure for Tōdai-ji Temple (Chartered bus)|
   |--:|--|
-  ||Go to Tōdai-ji Temple|
+  |||
 
 - |08:45|Sightseeing|
   |--:|--|
@@ -312,9 +312,9 @@ March 2024
   |--:|--|
   ||[Fushimi Inari Taisha](https://inari.jp/en/) ... Photogenic!|
 
-- |15:30|Traveling by JR Shinkansen|
+- |15:30|Departure for [Tokyo](https://www.google.com/maps/dir/Kyoto+Station,+Higashishiokoji+Kamadonocho,+Shimogyo+Ward,+Kyoto/Tokyo+Station,+1+Chome+Marunouchi,+Chiyoda+City,+Tokyo+100-0005/@35.1928467,136.4480529,8z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x600108ae918b02ef:0xb61a446e74a21c08!2m2!1d135.7587667!2d34.985849!1m5!1m1!1s0x60188bfbd89f700b:0x277c49ba34ed38!2m2!1d139.7671248!2d35.6812362!3e3?authuser=0&hl=en&entry=ttu) (JR Shinkansen)|
   |--:|--|
-  ||Go to [Tokyo](https://www.google.com/maps/dir/Kyoto+Station,+Higashishiokoji+Kamadonocho,+Shimogyo+Ward,+Kyoto/Tokyo+Station,+1+Chome+Marunouchi,+Chiyoda+City,+Tokyo+100-0005/@35.1928467,136.4480529,8z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x600108ae918b02ef:0xb61a446e74a21c08!2m2!1d135.7587667!2d34.985849!1m5!1m1!1s0x60188bfbd89f700b:0x277c49ba34ed38!2m2!1d139.7671248!2d35.6812362!3e3?authuser=0&hl=en&entry=ttu)<br>Boarding the Nozomi 232|
+  ||Boarding the Nozomi 232<br>|
 
 - |18:15|Traveling on foot|
   |--:|--|
@@ -324,9 +324,9 @@ March 2024
   |--:|--|
   ||[The Upper](https://the-upper.jp/)<br>Dress code: Casual (Jeans allowed)|
 
-- |20:30|Traveling by subway|
+- |20:30|Departure for hotel (Subway)|
   |--:|--|
-  ||Go to the hotel|
+  |||
 
 - |21:00|Arrival at the hotel|
   |--:|--|
@@ -340,17 +340,17 @@ March 2024
   |--:|--|
   ||Receiving the boxed lunch<br>Loading luggage onto the bus|
 
-- |07:15|Traveling by chartered bus #1|
+- |07:15|Departure for Haneda Airport (Chartered bus #1)|
   |--:|--|
-  ||Go to Haneda Airport|
+  |||
 
 - |08:30|Farewell|
   |--:|--|
   ||Take care on your way home.|
 
-- |10:45|Departure to Germany|
+- |10:45|Departure for Germany|
   |--:|--|
-  ||1st flight to Germany|
+  ||LH715 Flight to Germany|
 
 ### LH717 flight
 
@@ -360,17 +360,17 @@ March 2024
   |--:|--|
   ||Loading luggage onto the bus|
 
-- |09:15|Traveling by chartered bus #2|
+- |09:15|Departure for Haneda Airport (Chartered bus #2)|
   |--:|--|
-  ||Go to Haneda Airport|
+  |||
 
 - |10:30|Farewell|
   |--:|--|
   ||Take care on your way home.|
 
-- |12:35|Departure to Germany|
+- |12:35|Departure for Germany|
   |--:|--|
-  ||2nd flight to Germany|
+  ||LH717 Flight to Germany|
 
 ### CA926 flight
 
@@ -382,9 +382,9 @@ March 2024
 
 > Sun, Mar 31
 
-- |14:20|Departure to Germany|
+- |14:20|Departure for Germany|
   |--:|--|
-  ||3rd flight to Germany|
+  ||CA926 Flight to Germany|
 
 ## Appendix
 
