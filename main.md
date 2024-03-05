@@ -156,7 +156,7 @@ March 2024
 
 - |09:30|Meeting in the morning|
   |--:|--|
-  ||<br>|
+  ||End time in the morning: 12:15|
 
 - |12:15|Lunch|
   |--:|--|
@@ -164,7 +164,7 @@ March 2024
 
 - |13:45|Meeting in the afternoon|
   |--:|--|
-  ||<br>|
+  ||End time in the afternoon: 16:30|
 
 - |17:00|Departure for hotel (Chartered bus)|
   |--:|--|
@@ -202,19 +202,19 @@ March 2024
 
 - |09:30|Meeting in the morning|
   |--:|--|
-  ||<br>|
+  ||End time in the morning: 12:15|
 
 - |12:15|Lunch|
   |--:|--|
   ||[AZZURRI Kagurazaka](https://tokyo-shokusai.co.jp/en/restaurants/#azzurri)|
 
-- |13:30|Meeting in the afternoon|
+- |13:45|Meeting in the afternoon|
   |--:|--|
-  ||<br>|
+  ||End time in the afternoon: 16:30|
 
 - |14:35|Group photo session|
   |--:|--|
-  ||<br>|
+  ||At the front of the TKC Head Office building|
 
 - |17:00|Departure for hotel (Chartered bus)|
   |--:|--|
@@ -248,7 +248,7 @@ March 2024
 
 - |07:39|Departure for [Kyoto](https://www.google.com/maps/dir/Tokyo+Station,+1+Chome+Marunouchi,+Chiyoda+City,+Tokyo+100-0005/Kyoto+Station,+Higashishiokoji+Kamadonocho,+Shimogyo+Ward,+Kyoto/@35.1874658,136.4460704,8z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x60188bfbd89f700b:0x277c49ba34ed38!2m2!1d139.7671248!2d35.6812362!1m5!1m1!1s0x600108ae918b02ef:0xb61a446e74a21c08!2m2!1d135.7587667!2d34.985849!3e3?authuser=0&hl=en&entry=ttu) (JR Shinkansen)|
   |--:|--|
-  ||Boarding the Nozomi 207<br>|
+  ||Boarding the Nozomi 207<br>Arrival at 09:51|
 
 - |10:10|Departure for Kiyomizu-dera Temple (Chartered bus)|
   |--:|--|
@@ -314,7 +314,7 @@ March 2024
 
 - |15:30|Departure for [Tokyo](https://www.google.com/maps/dir/Kyoto+Station,+Higashishiokoji+Kamadonocho,+Shimogyo+Ward,+Kyoto/Tokyo+Station,+1+Chome+Marunouchi,+Chiyoda+City,+Tokyo+100-0005/@35.1928467,136.4480529,8z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x600108ae918b02ef:0xb61a446e74a21c08!2m2!1d135.7587667!2d34.985849!1m5!1m1!1s0x60188bfbd89f700b:0x277c49ba34ed38!2m2!1d139.7671248!2d35.6812362!3e3?authuser=0&hl=en&entry=ttu) (JR Shinkansen)|
   |--:|--|
-  ||Boarding the Nozomi 232<br>|
+  ||Boarding the Nozomi 232<br>Arrival at 17:45|
 
 - |18:15|Walk to the Restaurant|
   |--:|--|
