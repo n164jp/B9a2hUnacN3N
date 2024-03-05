@@ -18,7 +18,7 @@ March 2024
 
 > Sat, Mar 23
 
-### LH714 flight
+### LH714 Flight
 
 - |09:05|Arrival at Haneda Airport|
   |--:|--|
@@ -32,7 +32,7 @@ March 2024
   |--:|--|
   ||[Odaiba](https://www.gotokyo.org/en/destinations/southern-tokyo/odaiba/index.html)|
 
-### LH716 flight
+### LH716 Flight
 
 > Sat, Mar 23
 
@@ -68,7 +68,7 @@ March 2024
   |--:|--|
   ||[MOMIJI-TEI](https://www.newotani.co.jp/en/tokyo/restaurant/garden-momiji/) ... Teppanyaki<br>Dress code : Casual (jeans allowed)|
 
-### NH218 flight
+### NH218 Flight
 
 > Sun, Mar 24
 
@@ -80,7 +80,7 @@ March 2024
   |--:|--|
   |||
 
-### LH714 and LH716 flights
+### LH714 and LH716 Flights
 
 > Sun, Mar 24
 
@@ -88,7 +88,7 @@ March 2024
   |--:|--|
   |||
 
-### LH714, LH716 and NH218 flights
+### LH714, LH716 and NH218 Flights
 
 > Sun, Mar 24
 
@@ -104,7 +104,7 @@ March 2024
   |--:|--|
   ||[Chidori-ga-fuchi](https://www.gotokyo.org/en/spot/45/index.html)<br>[Sumida Park](https://www.gotokyo.org/en/spot/506/index.html) ... from the car window<br>[Senso-ji](https://www.senso-ji.jp/english/)|
 
-### CA181 flight
+### CA181 Flight
 
 > Sun, Mar 24
 
@@ -316,7 +316,7 @@ March 2024
   |--:|--|
   ||Boarding the Nozomi 232<br>|
 
-- |18:15|Traveling on foot|
+- |18:15|Walk to the Restaurant|
   |--:|--|
   ||Go to the dinner venue|
 
@@ -332,7 +332,7 @@ March 2024
   |--:|--|
   ||[Hotel New Otani Tokyo](https://www.newotani.co.jp/en/tokyo/)<br>Check in to the hotel again|
 
-### LH715 flight
+### LH715 Flight
 
 > Fri, Mar 29
 
@@ -344,7 +344,7 @@ March 2024
   |--:|--|
   |||
 
-- |08:30|Farewell|
+- |08:30|Farewell at the airport|
   |--:|--|
   ||Take care on your way home.|
 
@@ -352,7 +352,7 @@ March 2024
   |--:|--|
   ||LH715 Flight to Germany|
 
-### LH717 flight
+### LH717 Flight
 
 > Fri, Mar 29
 
@@ -364,7 +364,7 @@ March 2024
   |--:|--|
   |||
 
-- |10:30|Farewell|
+- |10:30|Farewell at the airport|
   |--:|--|
   ||Take care on your way home.|
 
@@ -372,7 +372,7 @@ March 2024
   |--:|--|
   ||LH717 Flight to Germany|
 
-### CA926 flight
+### CA926 Flight
 
 > Fri, Mar 29
 
