@@ -16,18 +16,20 @@ table {
     margin-bottom: 0;
 }
 
+body > table th,
+body > table td {
+    border: 0 !important;
+    padding: 0 5px;
+}
+
 th {
     border-bottom: none;
 }
 
-th:nth-child(1),
-td:nth-child(1) {
+li th:nth-child(1),
+li td:nth-child(1) {
     border-right: 3px #e5e5d1 solid;
-}
-
-body > table:nth-of-type(1) th,
-body > table:nth-of-type(1) td {
-    border: 0 !important;
+    width: 4em;
 }
 
 ul li:before {
@@ -36,7 +38,7 @@ ul li:before {
     height: 12px;
     background: #6fc173;
     position: absolute;
-    left: 6.5em;
+    left: 8em;
     margin-top: 0.7em;
     border-radius: 100%;
 }
