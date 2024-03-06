@@ -11,6 +11,7 @@
 , "main.html"
 , "lplan.html"
 )
+$qstr = "?" + (Get-Random -Maximum 9999 -Minimum 1000)
 $soc | %{
   $html = "C:\repos\B9a2hUnacN3N\$_"
   $data = Get-Content $html
@@ -20,7 +21,7 @@ $soc | %{
         $data[$i] = $data[$i] -replace "<a href=", "<a target=`"_blank`" href="
       }
     } 
-    $data[20] = $data[20] +"`n<link rel=`"stylesheet`" href=`"common.css`">"
+    $data[20] = $data[20] + "`n<link rel=`"stylesheet`" href=`"common.css${qstr}`">"
     $data | Out-File $html -Encoding UTF8
   }
 }

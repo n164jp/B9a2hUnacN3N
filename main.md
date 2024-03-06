@@ -112,7 +112,7 @@ March 2024
   |--:|--|
   ||CA181 Flight to Japan|
 
-- |13:50|Departure for hotel (jumbo taxi)|
+- |13:50|Departure for hotel (Jumbo taxi)|
   |--:|--|
   |||
 
@@ -274,19 +274,23 @@ March 2024
   |--:|--|
   |||
 
-- |17:00|Dinner|
+- |17:30|Dinner|
   |--:|--|
   ||[CHIMOTO](https://chimoto.jp/en/top/)<br>Dress code: Casual (Jeans allowed)|
 
-- |19:30|Sightseeing|
+- |19:45|Departure for To-ji Temple (Chartered bus)|
+  |--:|--|
+  ||Arrival at 20:45|
+
+- |20:45|Sightseeing|
   |--:|--|
   ||[To-ji Temple](https://toji.or.jp/en/index.html) ... Night cherry blossom viewing|
 
-- |20:30|Departure for [Nara](https://www.google.com/maps/dir/T%C5%8D-ji+Temple,+1+Kujocho,+Minami+Ward,+Kyoto,+601-8473/JW+Marriott+Hotel+Nara,+1+Chome-1+Sanjooji,+Nara+630-8013/@34.7753918,134.8195861,9z/data=!4m14!4m13!1m5!1m1!1s0x6001060485fbaa4d:0xd3ee2dd9b0177910!2m2!1d135.747786!2d34.9805982!1m5!1m1!1s0x60013bde91bef4fb:0xb1ba047955ccbffe!2m2!1d135.8052131!2d34.6839565!3e0?authuser=0&hl=en&entry=ttu) (Chartered bus)|
+- |21:30|Departure for [Nara](https://www.google.com/maps/dir/T%C5%8D-ji+Temple,+1+Kujocho,+Minami+Ward,+Kyoto,+601-8473/JW+Marriott+Hotel+Nara,+1+Chome-1+Sanjooji,+Nara+630-8013/@34.7753918,134.8195861,9z/data=!4m14!4m13!1m5!1m1!1s0x6001060485fbaa4d:0xd3ee2dd9b0177910!2m2!1d135.747786!2d34.9805982!1m5!1m1!1s0x60013bde91bef4fb:0xb1ba047955ccbffe!2m2!1d135.8052131!2d34.6839565!3e0?authuser=0&hl=en&entry=ttu) (Chartered bus)|
   |--:|--|
   |||
 
-- |21:15|Check in to the hotel|
+- |22:10|Check in to the hotel|
   |--:|--|
   ||[JW MARRIOTT HOTEL NARA](https://www.marriott.com/en-us/hotels/osajw-jw-marriott-hotel-nara/overview/)|
 
