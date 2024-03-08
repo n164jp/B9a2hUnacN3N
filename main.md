@@ -102,7 +102,7 @@ March 2024
 
 - |13:30|Sightseeing|
   |--:|--|
-  ||[Chidori-ga-fuchi](https://www.gotokyo.org/en/spot/45/index.html)<br>[Sumida Park](https://www.gotokyo.org/en/spot/506/index.html) ... from the car window<br>[Senso-ji](https://www.senso-ji.jp/english/)|
+  ||[Chidori-ga-fuchi](https://www.gotokyo.org/en/spot/45/index.html) 🌸[Cherry blossom live camera](https://www.youtube.com/watch?v=vLxDXIq3AVE)<br>[Sumida Park](https://www.gotokyo.org/en/spot/506/index.html) ... from the car window<br>[Senso-ji](https://www.senso-ji.jp/english/)|
 
 ### CA181 Flight
 
