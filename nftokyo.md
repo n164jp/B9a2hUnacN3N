@@ -14,7 +14,7 @@
 |3/28 (木)||京都から東京に戻り、Farewell ディナー|
 |3/29 (金)||帰国|
 
-## 会員先生行程
+## 会員先生行程 <span style="font-size: 50%;">&emsp;ver.240309.11</span>
 
 > 3/24 (日)
 
@@ -70,7 +70,7 @@
 
 - |18:30|ディナー|
   |--:|--|
-  ||[屋形船 晴海屋](https://www.harumiya.co.jp/)<br>ドレスコード: カジュアル (ジーンズ可)|
+  ||[屋形船 晴海屋](https://www.harumiya.co.jp/)<br>ドレスコード: カジュアル (ジーンズ可)<br>靴を脱いで入店 &#x1f45e;|
 
 - |20:30|貸切バス2台移動|
   |--:|--|
@@ -116,7 +116,7 @@
 
 - |18:30|ディナー|
   |--:|--|
-  ||[ホテル雅叙園東京 和室宴会場 鷲](https://www.hotelgajoen-tokyo.com/party/room/washi)<br>ドレスコード: ジャケット着用 (ネクタイ不要)<br>プレゼント交換|
+  ||[ホテル雅叙園東京 和室宴会場 鷲](https://www.hotelgajoen-tokyo.com/party/room/washi)<br>ドレスコード: ジャケット着用 (ネクタイ不要)<br>プレゼント交換<br>靴を脱いで入店 &#x1f45e;|
 
 - |20:30|貸切バス2台移動|
   |--:|--|
@@ -150,7 +150,7 @@ https://www.ginzalion.jp/shop/brand/yebisubar/shop62.html
 
 > 3/26 (火)
 
-AZZURRI アズーリ 神楽坂  
+AZZURRI 神楽坂  
 https://tokyo-shokusai.co.jp/restaurants/#azzurri
 
 ### ディナー
@@ -166,10 +166,12 @@ https://www.happo-en.com/wedding/banquet/sunlight/
 
 屋形船 晴海屋  
 https://www.harumiya.co.jp/  
-ドレスコード: カジュアル (ジーンズ可)
+ドレスコード: カジュアル (ジーンズ可)  
+靴を脱いで入店 &#x1f45e;
 
 > 3/26 (火)
 
 ホテル雅叙園東京 和室宴会場 鷲  
 https://www.hotelgajoen-tokyo.com/party/room/washi  
-ドレスコード: ジャケット着用 (ネクタイ不要)
+ドレスコード: ジャケット着用 (ネクタイ不要)  
+靴を脱いで入店 &#x1f45e;
