@@ -13,7 +13,7 @@ ul {
 }
 
 table {
-    margin-bottom: 0;
+    margin-bottom: 0 !important;
 }
 
 body > table th,
@@ -23,7 +23,7 @@ body > table td {
 }
 
 th {
-    border-bottom: none;
+    border-bottom: none !important;
 }
 
 li th:nth-child(1),

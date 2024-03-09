@@ -14,7 +14,7 @@ March 2024
 |Thu, Mar 28||Back to Tokyo from Kyoto, Farewell dinner|
 |Fri, Mar 29||Back to Germany|
 
-## Detailes
+## Detailes <span style="font-size: 50%;">&emsp;ver.240309.11</span>
 
 > Mon, Mar 25
 
@@ -36,10 +36,10 @@ March 2024
 
 not yet fixed...  
 https://...  
-Dress code : Casual (jeans allowed)
+Dress code: Casual (jeans accepted)
 
 > Tue, Mar 26
 
 not yet fixed...  
 https://...  
-Dress code : Casual (jeans allowed)
+Dress code: Casual (jeans accepted)

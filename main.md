@@ -1,6 +1,6 @@
 # DATEV-TKC Meeting  
 
-March 2024
+March 2024  
 
 ## Overall
 
@@ -14,7 +14,7 @@ March 2024
 |Thu, Mar 28||Back to Tokyo from Kyoto, Farewell dinner|
 |Fri, Mar 29||Back to Germany|
 
-## Detailes
+## Detailes <span style="font-size: 50%;">&emsp;ver.240309.11</span>
 
 > Sat, Mar 23
 
@@ -50,7 +50,7 @@ March 2024
 
 - |12:30|Lunch|
   |--:|--|
-  ||[THE OVEN](https://americanhouse.co.jp/shop/the-oven-aqua-city-odaiba/)<br>Dress code : Casual (jeans allowed)|
+  ||[THE OVEN](https://americanhouse.co.jp/shop/the-oven-aqua-city-odaiba/)<br>Dress code : Casual (jeans accepted)|
 
 - |13:30|Departure for Tokyo Tower (Chartered bus)|
   |--:|--|
@@ -60,13 +60,13 @@ March 2024
   |--:|--|
   ||[TOKYO TOWER](https://en.tokyotower.co.jp/)|
 
-- |16:00|Check in to the hotel|
+- |16:00|Check in Hotel|
   |--:|--|
   ||[Hotel New Otani Tokyo](https://www.newotani.co.jp/en/tokyo/)|
 
 - |18:00|Dinner at the hotel|
   |--:|--|
-  ||[MOMIJI-TEI](https://www.newotani.co.jp/en/tokyo/restaurant/garden-momiji/) ... Teppanyaki<br>Dress code : Casual (jeans allowed)|
+  ||[MOMIJI-TEI](https://www.newotani.co.jp/en/tokyo/restaurant/garden-momiji/) ... Teppanyaki<br>Dress code : Casual (jeans accepted)|
 
 ### NH218 Flight
 
@@ -98,11 +98,11 @@ March 2024
 
 - |12:00|Lunch|
   |--:|--|
-  ||[Ryotei ASADA](https://www.asadayaihei.co.jp/lp/english/)<br>Dress code: Casual (Jeans allowed)|
+  ||[Ryotei ASADA](https://www.asadayaihei.co.jp/lp/english/)<br>Dress code: Casual (jeans accepted)<br>Here, you take off your shoes.&#x1f45e;|
 
 - |13:30|Sightseeing|
   |--:|--|
-  ||[Chidori-ga-fuchi](https://www.gotokyo.org/en/spot/45/index.html) 🌸[Cherry blossom live camera](https://www.youtube.com/watch?v=vLxDXIq3AVE)<br>[Sumida Park](https://www.gotokyo.org/en/spot/506/index.html) ... from the car window<br>[Senso-ji](https://www.senso-ji.jp/english/)|
+  ||[Chidori-ga-fuchi](https://www.gotokyo.org/en/spot/45/index.html) &#x1f338;[Cherry blossom live camera](https://www.youtube.com/watch?v=vLxDXIq3AVE)<br>[Sumida Park](https://www.gotokyo.org/en/spot/506/index.html)<br>[Senso-ji](https://www.senso-ji.jp/english/)|
 
 ### CA181 Flight
 
@@ -118,7 +118,7 @@ March 2024
 
 - |14:30|Arrival at the hotel|
   |--:|--|
-  ||[Hotel New Otani Tokyo](https://www.newotani.co.jp/en/tokyo/)<br>After having lunch, check in to the hotel|
+  ||[Hotel New Otani Tokyo](https://www.newotani.co.jp/en/tokyo/)<br>After having lunch, check in|
 
 ### Everyone
 
@@ -126,7 +126,7 @@ March 2024
 
 - |16:50|Arrival at the hotel|
   |--:|--|
-  ||[Hotel New Otani Tokyo](https://www.newotani.co.jp/en/tokyo/)<br>Short break until dinner|
+  ||[Hotel New Otani Tokyo](https://www.newotani.co.jp/en/tokyo/)<br>|
 
 - |18:00|Departure for dinner (Chartered bus)|
   |--:|--|
@@ -134,7 +134,7 @@ March 2024
 
 - |18:30|Welcome dinner|
   |--:|--|
-  ||[HAPPO-EN Sunlight](https://www.happo-en.com/banquet/place/place.php?id=box03)<br>Dress code: Jacket required (tie optional)|
+  ||[HAPPO-EN Sunlight](https://www.happo-en.com/banquet/place/place.php?id=box03)<br>Dress code: with Jacket, No tie|
 
 - |20:30|Departure for hotel (Chartered bus)|
   |--:|--|
@@ -148,7 +148,7 @@ March 2024
 
 - |08:30|[Ladies' Plan](./lplan.html)|
   |--:|--|
-  ||Go to Kamakura<br>See attachment for details.|
+  ||Kamakura sightseeing<br>See attachment for details.|
 
 - |09:00|Departure for TKC Tokyo Head Office (Chartered bus)|
   |--:|--|
@@ -156,15 +156,15 @@ March 2024
 
 - |09:30|Meeting in the morning|
   |--:|--|
-  ||End time in the morning: 12:15|
+  |||
 
 - |12:15|Lunch|
   |--:|--|
-  ||[YEBISU BAR](https://www.ginzalion.jp/shop/brand/yebisubar/)|
+  ||[YEBIS restaurant](https://www.ginzalion.jp/shop/brand/yebisubar/)|
 
 - |13:45|Meeting in the afternoon|
   |--:|--|
-  ||End time in the afternoon: 16:30|
+  |||
 
 - |17:00|Departure for hotel (Chartered bus)|
   |--:|--|
@@ -172,7 +172,7 @@ March 2024
 
 - |17:30|Arrival at the hotel|
   |--:|--|
-  ||Short break until dinner|
+  |||
 
 - |18:00|Departure for dinner (Chartered bus)|
   |--:|--|
@@ -180,7 +180,7 @@ March 2024
 
 - |18:30|Dinner|
   |--:|--|
-  ||[Traditional Japanese-style Cruising Restaurant "HARUMIYA"](https://yakatabune-tokyo.com/index.html)<br>Dress code: Casual (Jeans allowed)|
+  ||[Traditional Japanese-style Cruising Restaurant "HARUMIYA"](https://yakatabune-tokyo.com/index.html)<br>Dress code: Casual (jeans accepted)<br>Here, you take off your shoes.&#x1f45e;|
 
 - |20:30|Departure for hotel (Chartered bus)|
   |--:|--|
@@ -194,7 +194,7 @@ March 2024
 
 - |08:30|[Ladies' Plan](./lplan.html)|
   |--:|--|
-  ||Go to Shibuya<br>See attachment for details.|
+  ||Shibuya sightseeing<br>See attachment for details.|
 
 - |09:00|Departure for TKC Tokyo Head Office (Chartered bus)|
   |--:|--|
@@ -202,7 +202,7 @@ March 2024
 
 - |09:30|Meeting in the morning|
   |--:|--|
-  ||End time in the morning: 12:15|
+  |||
 
 - |12:15|Lunch|
   |--:|--|
@@ -210,7 +210,7 @@ March 2024
 
 - |13:45|Meeting in the afternoon|
   |--:|--|
-  ||End time in the afternoon: 16:30|
+  |||
 
 - |14:35|Group photo session|
   |--:|--|
@@ -222,7 +222,7 @@ March 2024
 
 - |17:30|Arrival at the hotel|
   |--:|--|
-  ||Short break until dinner|
+  |||
 
 - |18:00|Departure for dinner (Chartered bus)|
   |--:|--|
@@ -230,7 +230,7 @@ March 2024
 
 - |18:30|Dinner|
   |--:|--|
-  ||[HOTEL GAJOEN TOKYO](https://www.hotelgajoen-tokyo.com/en/meeting-rooms/washi/)<br>Dress code: Jacket required (tie optional)|
+  ||[HOTEL GAJOEN TOKYO](https://www.hotelgajoen-tokyo.com/en/meeting-rooms/washi/)<br>Dress code: with Jacket, No tie<br>Here, you take off your shoes.&#x1f45e;|
 
 - |20:30|Departure for hotel (Chartered bus)|
   |--:|--|
@@ -238,9 +238,9 @@ March 2024
 
 > Wed, Mar 27
 
-- |06:30|Check out of the hotel|
+- |06:30|Check out Hotel|
   |--:|--|
-  ||Carry only the luggage for Kyoto.<br>Other luggage will be left at the hotel.|
+  ||Small bag for short trip to Kyoto required.<br>Suitcase is stored in Hotel New Otani.|
 
 - |06:40|Departure for Tokyo Station (Chartered bus)|
   |--:|--|
@@ -248,7 +248,7 @@ March 2024
 
 - |07:39|Departure for [Kyoto](https://www.google.com/maps/dir/Tokyo+Station,+1+Chome+Marunouchi,+Chiyoda+City,+Tokyo+100-0005/Kyoto+Station,+Higashishiokoji+Kamadonocho,+Shimogyo+Ward,+Kyoto/@35.1874658,136.4460704,8z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x60188bfbd89f700b:0x277c49ba34ed38!2m2!1d139.7671248!2d35.6812362!1m5!1m1!1s0x600108ae918b02ef:0xb61a446e74a21c08!2m2!1d135.7587667!2d34.985849!3e3?authuser=0&hl=en&entry=ttu) (JR Shinkansen)|
   |--:|--|
-  ||Boarding the Nozomi 207<br>Arrival at 09:51|
+  ||Super Express Nozomi 207<br>Arrival at 09:51|
 
 - |10:10|Departure for Kiyomizu-dera Temple (Chartered bus)|
   |--:|--|
@@ -260,7 +260,7 @@ March 2024
 
 - |13:10|Lunch|
   |--:|--|
-  ||[Tofu restaurant Yudofu　KIYOMIZU "JUNSEI"](https://www.okabeya.com/lang/en.html)<br>Dress code: Casual (Jeans allowed)|
+  ||[Tofu restaurant Yudofu　KIYOMIZU "JUNSEI"](https://www.okabeya.com/lang/en.html)<br>Dress code: Casual (jeans accepted)|
 
 - |14:10|Departure for Heian Shrine (Chartered bus)|
   |--:|--|
@@ -268,7 +268,7 @@ March 2024
 
 - |14:30|Sightseeing|
   |--:|--|
-  ||[Heian Jingu Shrine](https://www.heianjingu.or.jp/english/english.html)<br>[Kyoto Handicraft Center](https://www.kyotohandicraftcenter.com/?lang=en) ... Popular shopping spots|
+  ||[Heian Jingu Shrine](https://www.heianjingu.or.jp/english/english.html)<br>Shopping at [Kyoto Handicraft Center](https://www.kyotohandicraftcenter.com/?lang=en)<br>|
 
 - |16:50|Departure for CHIMOTO (Chartered bus)|
   |--:|--|
@@ -276,7 +276,7 @@ March 2024
 
 - |17:30|Dinner|
   |--:|--|
-  ||[CHIMOTO](https://chimoto.jp/en/top/)<br>Dress code: Casual (Jeans allowed)|
+  ||Traditional Japanese Cuisine ["CHIMOTO"](https://chimoto.jp/en/top/)<br>Dress code: Casual (jeans accepted)<br>Here, you take off your shoes.&#x1f45e;|
 
 - |19:45|Departure for To-ji Temple (Chartered bus)|
   |--:|--|
@@ -290,13 +290,13 @@ March 2024
   |--:|--|
   |||
 
-- |22:10|Check in to the hotel|
+- |22:10|Check in Hotel|
   |--:|--|
   ||[JW MARRIOTT HOTEL NARA](https://www.marriott.com/en-us/hotels/osajw-jw-marriott-hotel-nara/overview/)|
 
 > Thu, Mar 28
 
-- |08:20|Check out of the hotel|
+- |08:20|Check out Hotel|
   |--:|--|
   ||<br>|
 
@@ -310,23 +310,23 @@ March 2024
 
 - |12:00|Lunch|
   |--:|--|
-  ||[Ryoutei japanese restaurant - Uosaburo](https://www.uosaburo.com/english.html)<br>Dress code: Casual (Jeans allowed)|
+  ||[Ryoutei japanese restaurant - Uosaburo](https://www.uosaburo.com/english.html)<br>Dress code: Casual (jeans accepted)<br>Here, you take off your shoes.&#x1f45e;|
 
 - |13:30|Sightseeing|
   |--:|--|
-  ||[Fushimi Inari Taisha](https://inari.jp/en/) ... Photogenic!|
+  ||[Fushimi Inari Taisha](https://inari.jp/en/)|
 
 - |15:30|Departure for [Tokyo](https://www.google.com/maps/dir/Kyoto+Station,+Higashishiokoji+Kamadonocho,+Shimogyo+Ward,+Kyoto/Tokyo+Station,+1+Chome+Marunouchi,+Chiyoda+City,+Tokyo+100-0005/@35.1928467,136.4480529,8z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x600108ae918b02ef:0xb61a446e74a21c08!2m2!1d135.7587667!2d34.985849!1m5!1m1!1s0x60188bfbd89f700b:0x277c49ba34ed38!2m2!1d139.7671248!2d35.6812362!3e3?authuser=0&hl=en&entry=ttu) (JR Shinkansen)|
   |--:|--|
-  ||Boarding the Nozomi 232<br>Arrival at 17:45|
+  ||Super Express Nozomi 232<br>Arrival at 17:45|
 
-- |18:15|Walk to the Restaurant|
+- |18:15|Short walk to restaurant|
   |--:|--|
-  ||Go to the dinner venue|
+  |||
 
 - |18:30|Farewell dinner|
   |--:|--|
-  ||[The Upper](https://the-upper.jp/)<br>Dress code: Casual (Jeans allowed)|
+  ||[The Upper](https://the-upper.jp/)<br>Dress code: Casual (jeans accepted)|
 
 - |20:30|Departure for hotel (Subway)|
   |--:|--|
@@ -334,15 +334,15 @@ March 2024
 
 - |21:00|Arrival at the hotel|
   |--:|--|
-  ||[Hotel New Otani Tokyo](https://www.newotani.co.jp/en/tokyo/)<br>Check in to the hotel again|
+  ||[Hotel New Otani Tokyo](https://www.newotani.co.jp/en/tokyo/)<br>Check in Hotel again|
 
 ### LH715 Flight
 
 > Fri, Mar 29
 
-- |07:00|Check out of the hotel|
+- |07:00|Check out Hotel|
   |--:|--|
-  ||Receiving the boxed lunch<br>Loading luggage onto the bus|
+  ||Breakfast box is prepared<br>|
 
 - |07:15|Departure for Haneda Airport (Chartered bus #1)|
   |--:|--|
@@ -350,7 +350,7 @@ March 2024
 
 - |08:30|Farewell at the airport|
   |--:|--|
-  ||Take care on your way home.|
+  |||
 
 - |10:45|Departure for Germany|
   |--:|--|
@@ -360,9 +360,9 @@ March 2024
 
 > Fri, Mar 29
 
-- |09:00|Check out of the hotel|
+- |09:00|Check out Hotel|
   |--:|--|
-  ||Loading luggage onto the bus|
+  ||<br>|
 
 - |09:15|Departure for Haneda Airport (Chartered bus #2)|
   |--:|--|
@@ -370,7 +370,7 @@ March 2024
 
 - |10:30|Farewell at the airport|
   |--:|--|
-  ||Take care on your way home.|
+  |||
 
 - |12:35|Departure for Germany|
   |--:|--|
@@ -380,7 +380,7 @@ March 2024
 
 > Fri, Mar 29
 
-- |12:00|Check out of the hotel|
+- |12:00|Check out Hotel|
   |--:|--|
   ||<br>|
 
@@ -410,17 +410,18 @@ https://www.marriott.com/en-us/hotels/osajw-jw-marriott-hotel-nara/overview/
 
 THE OVEN  
 https://americanhouse.co.jp/shop/the-oven-aqua-city-odaiba/  
-Dress code : Casual (jeans allowed)
+Dress code : Casual (jeans accepted)
 
 > Sun, Mar 24
 
 Ryotei ASADA  
 https://www.asadayaihei.co.jp/lp/english/  
-Dress code: Casual (Jeans allowed)
+Dress code: Casual (jeans accepted)  
+Here, you take off your shoes.&#x1f45e;
 
 > Mon, Mar 25
 
-YEBISU BAR Kagurazaka  
+YEBIS restaurant Kagurazaka  
 https://www.ginzalion.jp/shop/brand/yebisubar/
 
 > Tue, Mar 26
@@ -432,13 +433,14 @@ https://tokyo-shokusai.co.jp/en/restaurants/#azzurri
 
 Tofu restaurant Yudofu　KIYOMIZU "JUNSEI"  
 https://www.okabeya.com/lang/en.html  
-Dress code: Casual (Jeans allowed)
+Dress code: Casual (jeans accepted)
 
 > Thu, Mar 28
 
 Ryoutei japanese restaurant "Uosaburo"  
 https://www.uosaburo.com/english.html  
-Dress code: Casual (Jeans allowed)
+Dress code: Casual (jeans accepted)  
+Here, you take off your shoes.&#x1f45e;
 
 ### Dinner
 
@@ -446,36 +448,39 @@ Dress code: Casual (Jeans allowed)
 
 MOMIJI-TEI  
 https://www.newotani.co.jp/en/tokyo/restaurant/garden-momiji/  
-Dress code : Casual (jeans allowed)
+Dress code : Casual (jeans accepted)
 
 > Sun, Mar 24
 
 Welcome dinner  
 HAPPO-EN Sunlight  
 https://www.happo-en.com/banquet/place/place.php?id=box03  
-Dress code: Jacket required (tie optional)
+Dress code: with Jacket, No tie
 
 > Mon, Mar 25
 
 Traditional Japanese-style Cruising Restaurant "HARUMIYA"  
 https://yakatabune-tokyo.com/index.html  
-Dress code: Casual (Jeans allowed)
+Dress code: Casual (jeans accepted)  
+Here, you take off your shoes.&#x1f45e;
 
 > Tue, Mar 26
 
 HOTEL GAJOEN TOKYO Meeting Room "Washi"  
 https://www.hotelgajoen-tokyo.com/en/meeting-rooms/washi/  
-Dress code: Jacket required (tie optional)
+Dress code: with Jacket, No tie  
+Here, you take off your shoes.&#x1f45e;
 
 > Wed, Mar 27
 
-CHIMOTO  
+Traditional Japanese Cuisine "CHIMOTO"  
 https://chimoto.jp/en/top/  
-Dress code: Casual (Jeans allowed)
+Dress code: Casual (jeans accepted)  
+Here, you take off your shoes.&#x1f45e;
 
 > Thu, Mar 28
 
 Farewell dinner  
 The Upper  
 https://the-upper.jp/  
-Dress code: Casual (Jeans allowed)
+Dress code: Casual (jeans accepted)
