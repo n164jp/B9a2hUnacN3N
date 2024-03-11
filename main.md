@@ -98,7 +98,7 @@ March 2024
 
 - |12:00|Lunch|
   |--:|--|
-  ||[Ryotei ASADA](https://www.asadayaihei.co.jp/lp/english/)<br>Dress code: Casual (jeans accepted)<br>Here, you take off your shoes.&#x1f45e;|
+  ||[Ryotei ASADA](https://www.asadayaihei.co.jp/lp/english/)<br>Dress code: Casual (jeans accepted)<br>You need to take off your shoes inside.&#x1f45e;|
 
 - |13:30|Sightseeing|
   |--:|--|
@@ -180,7 +180,7 @@ March 2024
 
 - |18:30|Dinner|
   |--:|--|
-  ||[Traditional Japanese-style Cruising Restaurant "HARUMIYA"](https://yakatabune-tokyo.com/index.html)<br>Dress code: Casual (jeans accepted)<br>Here, you take off your shoes.&#x1f45e;|
+  ||[Traditional Japanese-style Cruising Restaurant "HARUMIYA"](https://yakatabune-tokyo.com/index.html)<br>Dress code: Casual (jeans accepted)<br>You need to take off your shoes inside.&#x1f45e;|
 
 - |20:30|Departure for hotel (Chartered bus)|
   |--:|--|
@@ -230,7 +230,7 @@ March 2024
 
 - |18:30|Dinner|
   |--:|--|
-  ||[HOTEL GAJOEN TOKYO](https://www.hotelgajoen-tokyo.com/en/meeting-rooms/washi/)<br>Dress code: with Jacket, No tie<br>Here, you take off your shoes.&#x1f45e;|
+  ||[HOTEL GAJOEN TOKYO](https://www.hotelgajoen-tokyo.com/en/meeting-rooms/washi/)<br>Dress code: with Jacket, No tie<br>You need to take off your shoes inside.&#x1f45e;|
 
 - |20:30|Departure for hotel (Chartered bus)|
   |--:|--|
@@ -276,7 +276,7 @@ March 2024
 
 - |17:30|Dinner|
   |--:|--|
-  ||Traditional Japanese Cuisine ["CHIMOTO"](https://chimoto.jp/en/top/)<br>Dress code: Casual (jeans accepted)<br>Here, you take off your shoes.&#x1f45e;|
+  ||Traditional Japanese Cuisine ["CHIMOTO"](https://chimoto.jp/en/top/)<br>Dress code: Casual (jeans accepted)<br>You need to take off your shoes inside.&#x1f45e;|
 
 - |19:45|Departure for To-ji Temple (Chartered bus)|
   |--:|--|
@@ -310,7 +310,7 @@ March 2024
 
 - |12:00|Lunch|
   |--:|--|
-  ||[Ryoutei japanese restaurant - Uosaburo](https://www.uosaburo.com/english.html)<br>Dress code: Casual (jeans accepted)<br>Here, you take off your shoes.&#x1f45e;|
+  ||[Ryoutei japanese restaurant - Uosaburo](https://www.uosaburo.com/english.html)<br>Dress code: Casual (jeans accepted)<br>You need to take off your shoes inside.&#x1f45e;|
 
 - |13:30|Sightseeing|
   |--:|--|
@@ -417,7 +417,7 @@ Dress code : Casual (jeans accepted)
 Ryotei ASADA  
 https://www.asadayaihei.co.jp/lp/english/  
 Dress code: Casual (jeans accepted)  
-Here, you take off your shoes.&#x1f45e;
+You need to take off your shoes inside.&#x1f45e;
 
 > Mon, Mar 25
 
@@ -440,7 +440,7 @@ Dress code: Casual (jeans accepted)
 Ryoutei japanese restaurant "Uosaburo"  
 https://www.uosaburo.com/english.html  
 Dress code: Casual (jeans accepted)  
-Here, you take off your shoes.&#x1f45e;
+You need to take off your shoes inside.&#x1f45e;
 
 ### Dinner
 
@@ -462,21 +462,21 @@ Dress code: with Jacket, No tie
 Traditional Japanese-style Cruising Restaurant "HARUMIYA"  
 https://yakatabune-tokyo.com/index.html  
 Dress code: Casual (jeans accepted)  
-Here, you take off your shoes.&#x1f45e;
+You need to take off your shoes inside.&#x1f45e;
 
 > Tue, Mar 26
 
 HOTEL GAJOEN TOKYO Meeting Room "Washi"  
 https://www.hotelgajoen-tokyo.com/en/meeting-rooms/washi/  
 Dress code: with Jacket, No tie  
-Here, you take off your shoes.&#x1f45e;
+You need to take off your shoes inside.&#x1f45e;
 
 > Wed, Mar 27
 
 Traditional Japanese Cuisine "CHIMOTO"  
 https://chimoto.jp/en/top/  
 Dress code: Casual (jeans accepted)  
-Here, you take off your shoes.&#x1f45e;
+You need to take off your shoes inside.&#x1f45e;
 
 > Thu, Mar 28
 
