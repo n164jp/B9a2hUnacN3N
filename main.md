@@ -76,7 +76,11 @@ March 2024
   |--:|--|
   ||NH218 Flight to Japan|
 
-- |08:00|Departure for Meiji Jingu Shrine (Chartered bus #1)|
+- |08:00|Refresh Break|
+  |--:|--|
+  |||
+
+- |09:30|Departure for Meiji Jingu Shrine (Chartered bus #1)|
   |--:|--|
   |||
 
