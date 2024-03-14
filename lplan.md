@@ -1,6 +1,6 @@
 # DATEV-TKC Meeting  
 
-March 2024 Ladies' Plan
+March 2024 Ladies' Plan Draft version
 
 ## Overall
 
