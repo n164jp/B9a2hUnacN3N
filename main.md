@@ -14,7 +14,7 @@ March 2024
 |Thu, Mar 28||Back to Tokyo from Kyoto, Farewell dinner|
 |Fri, Mar 29||Back to Germany|
 
-## Detailes <span style="font-size: 50%;">&emsp;ver.240309.11</span>
+## Detailes <span style="font-size: 50%;">&emsp;ver.240317.08</span>
 
 > Sat, Mar 23
 

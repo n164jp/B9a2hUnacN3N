@@ -1,6 +1,6 @@
 # DATEV-TKC Meeting  
 
-March 2024 Ladies' Plan Draft version
+March 2024 Ladies' Plan
 
 ## Overall
 
@@ -14,7 +14,7 @@ March 2024 Ladies' Plan Draft version
 |Thu, Mar 28||Back to Tokyo from Kyoto, Farewell dinner|
 |Fri, Mar 29||Back to Germany|
 
-## Detailes <span style="font-size: 50%;">&emsp;ver.240309.11</span>
+## Detailes <span style="font-size: 50%;">&emsp;ver.240317.08</span>
 
 > Mon, Mar 25
 
@@ -24,25 +24,29 @@ March 2024 Ladies' Plan Draft version
 
 - |09:15|[Hokokuji-Temple (Bamboo Garden)](https://houkokuji.or.jp/en/)|
   |--:|--|
-  ||Enjoy Matcha and Dry Sweets while admiring the Bamboo Garden at Kyukouan.<br>Departure for the next destination at 9:45.|
+  ||Enjoy matcha and dry sweets while admiring the bamboo garden at Kyukouan until 10:00.|
 
 - |10:00|[EBISUYA's Rickshaw](https://www.ebisuya.com/en/branch/index.html#branch_kamakura)|
   |--:|--|
-  ||Visiting [Tsurugaoka Hachimangu Shrine](https://www.hachimangu.or.jp/en/) and Cherry Blossom Viewing Spots.<br>Departure for the next destination at 11:00.|
+  ||Visiting [Tsurugaoka Hachimangu Shrine](https://www.hachimangu.or.jp/en/) and cherry blossom viewing spots until 11:00.|
 
 - |11:20|[The Great Buddha and Kotoku-in](https://www.kotoku-in.jp/en/)|
   |--:|--|
-  ||Exploring Kamakura's Most Famous Power Spots.<br>Departure for the next destination at 11:55.|
+  ||Explore Kamakura's most famous power spots until 11:55.|
 
-- |12:00|Lunch|
+- |12:00|Lunch at [NATUDECO](https://localplace.jp/t200357103/)|
   |--:|--|
-  ||[NATUDECO](https://localplace.jp/t200357103/)<br>Planning to have a rice burgers at the Organic Cafe<br>Departure for the next destination at 13:00.|
+  ||Having rice burgers at the Organic Cafe until 13:00.|
 
 - |13:30|[Enoshima Island](https://discover-fujisawa.jp/en/)|
   |--:|--|
-  ||In Enoshima, visitors can explore various places on foot, using the Enoshima Escar, and the BenTenmaru sightseeing boat.<br>[Enoshima Shrine](https://discover-fujisawa.jp/en/sightseeing/whattosee/enoshima-shrine/)<br>[Enoshima Sea Candole](https://discover-fujisawa.jp/en/sightseeing/whattosee/enoshima-garden-and-lighthouse/)<br>[Iwaya Caves](https://discover-fujisawa.jp/en/sightseeing/whattosee/iwaya-caves-ryuren-no-kane-the-bell-of-the-dragons-love-and-benten-maru/)<br>Departure for hotel at 15:30.|
+  ||In Enoshima, visitors can explore various places on foot, using the Enoshima Escar, and the BenTenmaru sightseeing boat.<br>[Enoshima Shrine](https://discover-fujisawa.jp/en/sightseeing/whattosee/enoshima-shrine/)<br>[Enoshima Sea Candole](https://discover-fujisawa.jp/en/sightseeing/whattosee/enoshima-garden-and-lighthouse/)<br>[Iwaya Caves](https://discover-fujisawa.jp/en/sightseeing/whattosee/iwaya-caves-ryuren-no-kane-the-bell-of-the-dragons-love-and-benten-maru/)|
 
-- |16:50|Arrival at the hotel|
+- |15:30|Departure for Hotel|
+  |--:|--|
+  ||Arrival at 16:50|
+
+- |16:50|Arrival at [Hotel New Otani Tokyo](https://www.newotani.co.jp/en/tokyo/)|
   |--:|--|
   |||
 
@@ -54,11 +58,11 @@ March 2024 Ladies' Plan Draft version
 
 - |8:50|[MEGA Don Quijote Shibuya Honten](https://www.donki.com/en/store/shop_detail.php?add=1&shop_id=442&pref=13)|
   |--:|--|
-  ||Departure for the next destination at 9:45.|
+  ||Shopping until 9:45|
 
-- |9:45|Short walk to SHIBUYA SKY|
+- |9:45|Short walk to [SHIBUYA SKY](https://www.shibuya-scramble-square.com.e.apy.hp.transer.com/sky/?_ga=2.143569781.1970671647.1710313855-516011132.1708398072)|
   |--:|--|
-  ||It takes about 7 minutes. Along the way, we will pass through [Shibuya Scramble Crossing](https://en.japantravel.com/tokyo/shibuya-crossing/3016), which is also known as the world's most famous intersection.<br>|
+  ||It takes about 7 minutes. Along the way, we will pass through [Shibuya Scramble Crossing](https://en.japantravel.com/tokyo/shibuya-crossing/3016), which is also known as the world's most famous intersection.|
 
 - |10:00|[SHIBUYA SKY](https://www.shibuya-scramble-square.com.e.apy.hp.transer.com/sky/?_ga=2.143569781.1970671647.1710313855-516011132.1708398072)|
   |--:|--|
@@ -68,13 +72,17 @@ March 2024 Ladies' Plan Draft version
   |--:|--|
   ||Please enjoy shopping at Shibuya Hikarie. For lunch, we will gather in front of Cosme Kitchen Adaptation on the 7th floor. Please be there at 11:45.<br>[Shibuya Hikarie：Service for Foreign Customers](https://www.tokyu-dept.co.jp/shinqs/translation/eng.html)|
 
-- |11:50|Lunch|
+- |11:50|Lunch at [Cosme Kitchen Adaptation](https://www.hikarie.jp.e.ui.hp.transer.com/shop/detail/?scd=000100)|
   |--:|--|
-  ||[Cosme Kitchen Adaptation](https://www.hikarie.jp.e.ui.hp.transer.com/shop/detail/?scd=000100)<br>The menu is [here](http://ck-adaptation.com/img/menu/shibuya/lunch.pdf#view=Fit).<br>Departure for the next destination at 12:45.|
+  ||Until 12:45<br>The menu is [here](http://ck-adaptation.com/img/menu/shibuya/lunch.pdf#view=Fit).|
 
 - |13:30|[teamLab](https://www.teamlab.art/e/planets/)|
   |--:|--|
-  ||Departure for the next destination at 14:15.|
+  ||Digital art immersive experience until 14:15|
+
+- |14:15|Departure for [HOTEL GAJOEN TOKYO](https://www.hotelgajoen-tokyo.com/en/)|
+  |--:|--|
+  ||Arrival at 15:00|
 
 - |15:00|[HOTEL GAJOEN TOKYO](https://www.hotelgajoen-tokyo.com/en/)|
   |--:|--|
