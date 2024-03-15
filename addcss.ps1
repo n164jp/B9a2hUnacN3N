@@ -14,6 +14,9 @@
 $qstr = "?" + (Get-Random -Maximum 9999 -Minimum 1000)
 $soc | %{
   $html = "C:\repos\B9a2hUnacN3N\$_"
+  if (!(Test-Path $html)) {
+    return
+  }
   $data = Get-Content $html
   if ($data[21] -notmatch ".*common.css.*") {
     for ($i = 0; $i -lt $data.Count; $i++) {
