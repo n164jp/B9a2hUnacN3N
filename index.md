@@ -22,24 +22,6 @@ target="_blank"
 
 ## 個別行程
 
-[事務局](./staff.html)
-
-[出迎者](./welcomer.html)
-
-[名誉会長](./honor.html)
-
-[会員先生](./nftokyo.html)
-
-[プレゼンター](./presenter.html)
-
-[質問者](./questioner.html)
-
-[京都同行者](./attendant.html)
-
-[京都先生](./nfkyoto.html)
-
-[全国会会長](./nfhead.html)
-
 [DATEV](./main.html)
 
 [Ladies' Plan](./lplan.html)

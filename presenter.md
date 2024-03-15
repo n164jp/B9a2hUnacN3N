@@ -14,7 +14,7 @@
 |3/28 (木)||京都から東京に戻り、Farewell ディナー|
 |3/29 (金)||帰国|
 
-## プレゼンター行程 <span style="font-size: 50%;">&emsp;ver.240309.11</span>
+## プレゼンター行程 <span style="font-size: 50%;">&emsp;廃版</span>
 
 >3/25 (月)
 
