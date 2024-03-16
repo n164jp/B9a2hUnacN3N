@@ -27,3 +27,5 @@ target="_blank"
 [Ladies' Plan](./lplan.html)
 
 [会員先生](./nftokyo.html)
+
+[名誉会長](./honor.html)
