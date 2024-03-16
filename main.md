@@ -120,7 +120,7 @@ March 2024
   |--:|--|
   ||Sightseeing until 16:20|
   
-- |14:20|Departure for Hotel (Chartered bus)|
+- |16:20|Departure for Hotel (Chartered bus)|
   |--:|--|
   ||Arrival at 16:50|
 
