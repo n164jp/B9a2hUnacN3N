@@ -118,8 +118,8 @@ March 2024
 
 - |14:50|[Senso-ji](https://www.senso-ji.jp/english/)|
   |--:|--|
-  ||Sightseeing until 16:20|
-  
+  ||Sightseeing and shopping until 16:20<br>[Kaminarimon Gate](https://www.senso-ji.jp/english/#visit_btn08)<br>[Nakamise Street](http://asakusa-nakamise.jp/e-index.html)<br>[Main Hall of Senso-ji Temple](https://www.senso-ji.jp/english/#visit_btn01)<br>[Kaminari Gorogoro Kaikan](https://tokiwado.tokyo/store/5656/)|
+
 - |16:20|Departure for Hotel (Chartered bus)|
   |--:|--|
   ||Arrival at 16:50|
