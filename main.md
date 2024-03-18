@@ -14,7 +14,7 @@ March 2024
 |Thu, Mar 28||Back to Tokyo from Kyoto, Farewell dinner|
 |Fri, Mar 29||Back to Germany|
 
-## Detailes <span style="font-size: 50%;">&emsp;ver.240317.08</span>
+## Detailes <span style="font-size: 50%;">&emsp;ver.240318.20</span>
 
 > Sat, Mar 23
 
@@ -238,7 +238,7 @@ March 2024
 
 - |16:45|Departure for Hotel (Chartered bus)|
   |--:|--|
-  ||Arrival at 17:15|
+  ||Arrival at 17:15<br>Some guests go directly to the dinner venue.|
 
 - |17:15|Arrival at [Hotel New Otani Tokyo](https://www.newotani.co.jp/en/tokyo/)|
   |--:|--|
@@ -286,13 +286,13 @@ March 2024
   |--:|--|
   ||Until 14:10<br>Dress code: Casual (jeans accepted)|
 
-- |14:30|Considering sightseeing plans...|
+- |14:50|[Kinkaku-ji](https://www.shokoku-ji.jp/en/kinkakuji/)|
   |--:|--|
-  ||[Kinkaku-ji](https://www.shokoku-ji.jp/en/kinkakuji/)<br>[Heian Jingu Shrine](https://www.heianjingu.or.jp/english/english.html)<br>Shopping at [Kyoto Handicraft Center](https://www.kyotohandicraftcenter.com/?lang=en)<br>|
+  ||Sightseeing until 15:50|
 
-- |16:50|Departure for [CHIMOTO](https://chimoto.jp/en/top/) (Chartered bus)|
+- |16:15|[Kyoto Handicraft Center](https://www.kyotohandicraftcenter.com/?lang=en)|
   |--:|--|
-  ||Arrival at 17:20|
+  ||Shopping until 17:10|
 
 - |17:20|Dinner at Traditional Japanese Cuisine ["CHIMOTO"](https://chimoto.jp/en/top/)|
   |--:|--|
