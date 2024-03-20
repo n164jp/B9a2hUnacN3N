@@ -14,7 +14,7 @@ March 2024 Ladies' Plan
 |Thu, Mar 28||Back to Tokyo from Kyoto, Farewell dinner|
 |Fri, Mar 29||Back to Germany|
 
-## Detailes <span style="font-size: 50%;">&emsp;ver.240319.13</span>
+## Detailes <span style="font-size: 50%;">&emsp;ver.240320.11</span>
 
 > Mon, Mar 25
 
@@ -68,9 +68,9 @@ March 2024 Ladies' Plan
   |--:|--|
   ||It takes about 7 minutes. Along the way, we will pass through [Shibuya Scramble Crossing](https://en.japantravel.com/tokyo/shibuya-crossing/3016), which is also known as the world's most famous intersection.|
 
-- |09:50|[SHIBUYA SKY](https://www.shibuya-scramble-square.com.e.apy.hp.transer.com/sky/?_ga=2.143569781.1970671647.1710313855-516011132.1708398072)|
+- |09:50|[SHIBUYA SKY](https://www.shibuya-scramble-square.com.e.apy.hp.transer.com/sky/?_ga=2.143569781.1970671647.1710313855-516011132.1708398072) and [Shibuya Hikarie](https://www.hikarie.jp.e.ui.hp.transer.com/)|
   |--:|--|
-  ||Experience a 360-degree panoramic view from 229 meters above Shibuya until 11:30|
+  ||Sightseeing and shopping until 11:30|
 
 - |11:50|Lunch at [Cosme Kitchen Adaptation](https://www.hikarie.jp.e.ui.hp.transer.com/shop/detail/?scd=000100) in [Shibuya Hikarie](https://www.hikarie.jp.e.ui.hp.transer.com/)|
   |--:|--|
