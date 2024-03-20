@@ -14,7 +14,7 @@ March 2024
 |Thu, Mar 28||Back to Tokyo from Kyoto, Farewell dinner|
 |Fri, Mar 29||Back to Germany|
 
-## Detailes <span style="font-size: 50%;">&emsp;ver.240318.20</span>
+## Detailes <span style="font-size: 50%;">&emsp;ver.240320.13</span>
 
 > Sat, Mar 23
 
@@ -264,7 +264,7 @@ March 2024
 
 - |06:30|Check out Hotel|
   |--:|--|
-  ||Before breakfast.<br>Small bag for short trip to Kyoto required.<br>Suitcase is stored in Hotel New Otani.|
+  ||Before breakfast.<br>Small bag for short trip to Kyoto required.<br>Suitcase is stored in Hotel New Otani.<br>You need to attach the following tag to the suitcase being stored.<br>![](./tag.jpeg)|
 
 - |06:40|Departure for Tokyo Station (Chartered bus)|
   |--:|--|
