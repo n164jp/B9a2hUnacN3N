@@ -44,7 +44,7 @@ March 2024 Ladies' Plan
 
 - |14:00|[Enoshima Island](https://discover-fujisawa.jp/en/)|
   |--:|--|
-  ||In Enoshima, visitors can explore various places on foot, using the Enoshima Escar, and the BenTenmaru sightseeing boat.<br>[Enoshima Shrine](https://discover-fujisawa.jp/en/sightseeing/whattosee/enoshima-shrine/)<br>[Enoshima Sea Candole](https://discover-fujisawa.jp/en/sightseeing/whattosee/enoshima-garden-and-lighthouse/)<br>[Iwaya Caves](https://discover-fujisawa.jp/en/sightseeing/whattosee/iwaya-caves-ryuren-no-kane-the-bell-of-the-dragons-love-and-benten-maru/)|
+  ||In Enoshima, visitors can explore various places on foot, using the Enoshima Escar, and the BenTenmaru sightseeing boat.<br>[Enoshima Shrine](https://discover-fujisawa.jp/en/sightseeing/whattosee/enoshima-shrine/)<br>[Iwaya Caves](https://discover-fujisawa.jp/en/sightseeing/whattosee/iwaya-caves-ryuren-no-kane-the-bell-of-the-dragons-love-and-benten-maru/)|
 
 - |15:15|Departure for Hotel|
   |--:|--|
