@@ -14,7 +14,7 @@ March 2024
 |Thu, Mar 28||Back to Tokyo from Kyoto, Farewell dinner|
 |Fri, Mar 29||Back to Germany|
 
-## Detailes <span style="font-size: 50%;">&emsp;ver.240320.13</span>
+## Detailes <span style="font-size: 50%;">&emsp;ver.240322.20</span>
 
 > Sat, Mar 23
 
@@ -262,9 +262,9 @@ March 2024
 
 > Wed, Mar 27
 
-- |06:30|Check out Hotel|
+- |06:30|Gather at the front entrance on the 1st floor of the hotel|
   |--:|--|
-  ||Before breakfast.<br>Small bag for short trip to Kyoto required.<br>Suitcase is stored in Hotel New Otani.<br>You need to attach the following tag to the suitcase being stored.<br>![](./tag.jpeg)|
+  ||Before breakfast.<br>No need to check out individually.<br>Small bag for short trip to Kyoto required.<br>Suitcase is stored in Hotel New Otani.<br>You need to attach the following tag to the suitcase being stored.<br>![](./tag.jpeg)|
 
 - |06:40|Departure for Tokyo Station (Chartered bus)|
   |--:|--|
@@ -368,9 +368,9 @@ March 2024
 
 > Fri, Mar 29
 
-- |07:00|Check out Hotel|
+- |07:10|Gather at the front entrance on the 1st floor of the hotel|
   |--:|--|
-  ||Breakfast box is prepared|
+  ||No need to check out individually.<br>Breakfast box is prepared.|
 
 - |07:15|Departure for Haneda Airport (Chartered bus #1)|
   |--:|--|
@@ -388,9 +388,9 @@ March 2024
 
 > Fri, Mar 29
 
-- |09:10|Check out Hotel|
+- |09:10|Gather at the front entrance on the 1st floor of the hotel|
   |--:|--|
-  |||
+  ||No need to check out individually.|
 
 - |09:15|Departure for Haneda Airport (Chartered bus #2)|
   |--:|--|
