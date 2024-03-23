@@ -9,6 +9,12 @@
 , "welcomer.html"
 , "questioner.html"
 , "main.html"
+, "main24.html"
+, "main25.html"
+, "main26.html"
+, "main27.html"
+, "main28.html"
+, "main29.html"
 , "lplan.html"
 )
 $qstr = "?" + (Get-Random -Maximum 9999 -Minimum 1000)
