@@ -39,22 +39,3 @@
 - |21:00|Arrival at [Hotel New Otani Tokyo](https://www.newotani.co.jp/en/tokyo/)|
   |--:|--|
   |||
-
-## Appendix
-
-> Hotel
-
-Hotel New Otani Tokyo  
-https://www.newotani.co.jp/en/tokyo/
-
-> Lunch
-
-YEBIS restaurant Kagurazaka  
-https://www.ginzalion.jp/shop/brand/yebisubar/
-
-> Dinner
-
-Traditional Japanese-style Cruising Restaurant "HARUMIYA"  
-https://yakatabune-tokyo.com/index.html  
-Dress code: Casual (jeans accepted)  
-You need to take off your shoes inside.&#x1f45e;

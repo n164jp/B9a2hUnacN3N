@@ -51,23 +51,3 @@
 - |22:10|Check in Hotel|
   |--:|--|
   ||[JW MARRIOTT HOTEL NARA](https://www.marriott.com/en-us/hotels/osajw-jw-marriott-hotel-nara/overview/)|
-
-## Appendix
-
-> Hotel
-
-JW MARRIOTT HOTEL NARA  
-https://www.marriott.com/en-us/hotels/osajw-jw-marriott-hotel-nara/overview/
-
-> Lunch
-
-Tofu restaurant Yudofu　KIYOMIZU "JUNSEI"  
-https://www.okabeya.com/lang/en.html  
-Dress code: Casual (jeans accepted)
-
-> Dinner
-
-Traditional Japanese Cuisine "CHIMOTO"  
-https://chimoto.jp/en/top/  
-Dress code: Casual (jeans accepted)  
-You need to take off your shoes inside.&#x1f45e;

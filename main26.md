@@ -43,23 +43,3 @@
 - |21:00|Arrival at [Hotel New Otani Tokyo](https://www.newotani.co.jp/en/tokyo/)|
   |--:|--|
   |||
-
-## Appendix
-
-> Hotel
-
-Hotel New Otani Tokyo  
-https://www.newotani.co.jp/en/tokyo/
-
-> Lunch
-
-AZZURRI Kagurazaka  
-https://tokyo-shokusai.co.jp/en/restaurants/#azzurri
-
-> Dinner
-
-HOTEL GAJOEN TOKYO Meeting Room "Washi"  
-https://www.hotelgajoen-tokyo.com/en/meeting-rooms/washi/  
-Event: Gift Exchange  
-Dress code: with Jacket, No tie  
-You need to take off your shoes inside.&#x1f45e;

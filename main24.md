@@ -69,23 +69,3 @@
 - |21:00|Arrival at [Hotel New Otani Tokyo](https://www.newotani.co.jp/en/tokyo/)|
   |--:|--|
   |||
-
-## Appendix
-
-> Hotel
-
-Hotel New Otani Tokyo  
-https://www.newotani.co.jp/en/tokyo/
-
-> Lunch
-
-Ryotei ASADA  
-https://www.asadayaihei.co.jp/lp/english/  
-Dress code: Casual (jeans accepted)  
-You need to take off your shoes inside.&#x1f45e;
-
-> Welcome dinner
-
-HAPPO-EN Sunlight  
-https://www.happo-en.com/banquet/place/place.php?id=box03  
-Dress code: with Jacket, No tie

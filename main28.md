@@ -47,23 +47,3 @@
 - |21:00|Arrival at [Hotel New Otani Tokyo](https://www.newotani.co.jp/en/tokyo/)|
   |--:|--|
   ||Check in Hotel again|
-
-## Appendix
-
-> Hotel
-
-Hotel New Otani Tokyo  
-https://www.newotani.co.jp/en/tokyo/
-
-> Lunch
-
-Ryoutei japanese restaurant "Uosaburo"  
-https://www.uosaburo.com/english.html  
-Dress code: Casual (jeans accepted)  
-You need to take off your shoes inside.&#x1f45e;
-
-> Farewell dinner
-
-The Upper  
-https://the-upper.jp/  
-Dress code: Casual (jeans accepted)
